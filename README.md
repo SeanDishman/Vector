@@ -16,7 +16,7 @@ Example report from offline demo mode; no network requests were made for this sc
 
 ### Demo video
 
-[![Watch the Vector demo video (5:10)](docs/vector-demo-preview.jpg)](docs/vector-demo.mp4)
+[![Watch the Vector demo video (5:10)](docs/vector-demo-preview.jpg)](https://github.com/SeanDishman/Vector/raw/main/docs/vector-demo.mp4)
 
 A five-minute walkthrough inspecting crypto.com: infrastructure, software, vendors, API endpoints, DNS records and evidence. [Download the video](https://github.com/SeanDishman/Vector/raw/main/docs/vector-demo.mp4) (MP4, 9.6 MB).
 
