@@ -14,6 +14,12 @@ Vector focuses on a single endpoint and its web stack. It does not perform subne
 
 Example report from offline demo mode; no network requests were made for this screenshot. See [public release verification](docs/public-release.md) for build and distribution details.
 
+### Demo video
+
+[![Watch the Vector demo video (5:10)](docs/vector-demo-preview.jpg)](docs/vector-demo.mp4)
+
+A five-minute walkthrough inspecting crypto.com: infrastructure, software, vendors, API endpoints, DNS records and evidence. [Download the video](https://github.com/SeanDishman/Vector/raw/main/docs/vector-demo.mp4) (MP4, 9.6 MB).
+
 ## Run
 
 Open Vector.exe, enter a URL, hostname or IP address, and press **Enter** or **Inspect**. Vector chooses its checks from the address and uses bounded defaults. Settings contains only the optional proxy connection.
