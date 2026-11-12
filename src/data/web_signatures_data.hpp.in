@@ -1,0 +1,2 @@
+#pragma once
+inline constexpr char web_signatures_data[] = R"WEBSIG(@VECTOR_WEB_SIGNATURES@)WEBSIG";

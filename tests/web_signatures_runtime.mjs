@@ -1,0 +1,26 @@
+import assert from 'node:assert/strict';
+import {execFileSync} from 'node:child_process';
+import fs from 'node:fs';
+import vm from 'node:vm';
+import path from 'node:path';
+import crypto from 'node:crypto';
+
+const exe=path.resolve(process.argv[2]),out=path.resolve(process.argv[3]);fs.mkdirSync(out,{recursive:true});
+const key='fixture_'+crypto.randomBytes(6).toString('hex');
+const definition={schema_version:1,revision:'fresh-fixture',rules:[{id:'fresh-rule',name:'Fresh technology '+key,category:'Library',source:'runtime',version:key+'.version',requires:{[key+'.start']:'function',[key+'.create']:'function'}}]};
+const file=path.join(out,'fresh-rules.json'),evidence=path.join(out,'fresh-evidence.json');fs.writeFileSync(file,JSON.stringify(definition));
+const expression=execFileSync(exe,['--custom-expression',file],{encoding:'utf8'});
+let getters=0;
+const api={version:'7.8.9-Canary+7',start(){},create(){}};
+const observe=value=>vm.runInNewContext(expression,{[key]:value},{timeout:1000});
+const actual=observe(api);fs.writeFileSync(evidence,JSON.stringify(actual));
+const report=JSON.parse(execFileSync(exe,['--match-custom',file,evidence],{encoding:'utf8'}));
+assert.equal(report.findings[0].name,definition.rules[0].name);assert.equal(report.findings[0].version,api.version);
+assert.equal(report.findings[0].evidence.length,3);
+for(const e of report.findings[0].evidence)assert.ok(e.source.includes('fresh-rule @ fresh-fixture'));
+const dangerous={start(){},create(){}};Object.defineProperty(dangerous,'version',{get(){getters++;throw Error('getter');}});
+const noGetters=observe(dangerous);assert.equal(getters,0);assert.equal(noGetters.properties[key+'.version'].type,'undefined');
+const inherited=observe(Object.create(api));assert.equal(inherited.properties[key+'.version'].type,'undefined');
+const huge=observe({...api,version:'x'.repeat(200)});assert.equal(huge.properties[key+'.version'].value,undefined);
+assert.equal(observe({...api,version:null}).properties[key+'.version'].type,'null');
+console.log('Fresh-rule observer and matching passed; getters, inherited data, nulls and oversized values excluded.');

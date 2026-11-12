@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "revision": "2026-11-11.1",
+  "rules": [
+    {"id":"leaflet-api","name":"Leaflet","category":"Library","source":"runtime","version":"L.version","requires":{"L.map":"function","L.tileLayer":"function"}},
+    {"id":"chartjs-api","name":"Chart.js","category":"Library","source":"runtime","version":"Chart.version","requires":{"Chart":"function","Chart.register":"function","Chart.defaults":"object"}},
+    {"id":"handlebars-api","name":"Handlebars","category":"Library","source":"runtime","version":"Handlebars.VERSION","requires":{"Handlebars.template":"function","Handlebars.compile":"function"}},
+    {"id":"backbone-api","name":"Backbone.js","category":"Library","source":"runtime","version":"Backbone.VERSION","requires":{"Backbone.Model":"function","Backbone.Collection":"function"}},
+    {"id":"lodash-api","name":"lodash","category":"Library","source":"runtime","version":"_.VERSION","requires":{"_.chunk":"function","_.cloneDeep":"function"}},
+    {"id":"moment-api","name":"Moment.js","category":"Library","source":"runtime","version":"moment.version","requires":{"moment":"function","moment.utc":"function","moment.isMoment":"function"}},
+    {"id":"htmx-api","name":"HTMX","category":"Library","source":"runtime","version":"htmx.version","requires":{"htmx.ajax":"function","htmx.process":"function"}},
+    {"id":"alpine-api","name":"Alpine.js","category":"Library","source":"runtime","version":"Alpine.version","requires":{"Alpine.start":"function","Alpine.data":"function"}},
+    {"id":"axios-api","name":"axios","category":"Library","source":"runtime","version":"axios.VERSION","requires":{"axios":"function","axios.request":"function","axios.create":"function"}},
+    {"id":"gsap-api","name":"GSAP","category":"Library","source":"runtime","version":"gsap.version","requires":{"gsap.to":"function","gsap.timeline":"function"}},
+    {"id":"plotly-api","name":"Plotly.js","category":"Library","source":"runtime","version":"Plotly.version","requires":{"Plotly.newPlot":"function","Plotly.react":"function"}},
+    {"id":"highcharts-api","name":"Highcharts","category":"Library","source":"runtime","version":"Highcharts.version","requires":{"Highcharts.chart":"function","Highcharts.Chart":"function"}},
+    {"id":"astro-island","name":"Astro","category":"Framework","source":"dom","selector":"astro-island","attributes":{"component-url":"present","renderer-url":"present"}},
+    {"id":"livewire-component","name":"Livewire","category":"Framework","source":"dom","selector":"[wire\\:id]","attributes":{"wire:id":"present","wire:snapshot":"present","wire:effects":"present"}},
+    {"id":"webflow-document","name":"Webflow","category":"CMS","source":"dom","selector":"html","attributes":{"data-wf-site":"hex24","data-wf-page":"hex24"}},
+    {"id":"angular-version","name":"Angular","category":"Framework","source":"dom","selector":"[ng-version]","attributes":{"ng-version":"version"}},
+    {"id":"laravel-cookies","name":"Laravel","category":"Framework","source":"cookies","names":["laravel_session","XSRF-TOKEN"]},
+    {"id":"aspnet-cookies","name":"ASP.NET","category":"Framework","source":"cookies","names":["ASP.NET_SessionId","__RequestVerificationToken"]},
+    {"id":"wordpress-cookies","name":"WordPress","category":"CMS","source":"cookies","names":["wordpress_test_cookie"],"hex_suffix":"wordpress_logged_in_"},
+    {"id":"leaflet-banner","name":"Leaflet","category":"Library","source":"script_banner","prefix":"Leaflet ","corroboration":"https://leafletjs.com"},
+    {"id":"chartjs-banner","name":"Chart.js","category":"Library","source":"script_banner","prefix":"Chart.js v","corroboration":"https://www.chartjs.org"},
+    {"id":"handlebars-banner","name":"Handlebars","category":"Library","source":"script_banner","prefix":"handlebars v","corroboration":"by Yehuda Katz"},
+    {"id":"decimaljs-banner","name":"decimal.js","category":"Library","source":"script_banner","prefix":"decimal.js v","corroboration":"An arbitrary-precision Decimal type for JavaScript"},
+    {"id":"akamai-bot-manager-cookies","name":"Akamai Bot Manager","category":"Bot protection","source":"cookies","names":["_abck","bm_sz"]},
+    {"id":"fingerprint-agent-banner","name":"Fingerprint","category":"Fraud prevention","source":"script_banner","prefix":"Fingerprint v","corroboration":"Copyright (c) FingerprintJS, Inc"}
+  ]
+}

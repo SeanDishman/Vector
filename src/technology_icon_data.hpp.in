@@ -1,0 +1,8 @@
+#pragma once
+namespace vectorapp::icon_data {
+struct Source { const char* key; const char* svg; };
+inline constexpr Source sources[] = {
+@VECTOR_ICON_SOURCES@
+};
+inline constexpr const char* manifest = R"vectoricons(@VECTOR_ICON_MANIFEST@)vectoricons";
+}

@@ -1,0 +1,3902 @@
+{
+  "schema": 1,
+  "usage": "Identification labels only. Marks belong to their owners; presence conveys neither affiliation nor stronger detection evidence.",
+  "icons": [
+    {
+      "key": "accenture",
+      "names": [
+        "Accenture",
+        "ACCENTURE CENTRAL EUROPE BV AMSTERDAM OLANDA-SUCURSALA BUCURESTI",
+        "Accenture Bulgaria EOOD",
+        "Accenture Inc.",
+        "Accenture International Limited",
+        "Accenture Japan Ltd",
+        "Accenture LLP",
+        "Accenture Ltd",
+        "Accenture S.C",
+        "Accenture Sdn Bhd",
+        "Accenture Solutions Pvt. Ltd.",
+        "Accenture, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.accenture.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/accenture.svg",
+      "sha256": "90ab4306d4f57792786a7c03f3e5212a192458abe4b5c3191aa94499a0e5fce5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "adyen",
+      "names": [
+        "Adyen"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.adyen.com/press-and-media/presskit",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/adyen.svg",
+      "sha256": "053806fa627629ca4daa640618344e4cab7c504a59dc91232e5edf8ad8c35a5a",
+      "license": null,
+      "guidelines": "https://www.adyen.com/press-and-media/presskit"
+    },
+    {
+      "key": "akamai",
+      "names": [
+        "Akamai",
+        "Akamai Technologies",
+        "Akamai Bot Manager",
+        "Akamai Edge DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.akamai.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/akamai.svg",
+      "sha256": "d63f4c82a59480d96dde3c68c03e07be3e526f92f8034872161b24235b7224ae",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "algolia",
+      "names": [
+        "Algolia"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://algolia.frontify.com/d/1AZwVNcFZiu7/style-guide#/basics/algolia-logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/algolia.svg",
+      "sha256": "8f062b6fa7222dd00655af33af38eee65bd2e52695c4f8f0c22a7daf40e74551",
+      "license": null,
+      "guidelines": "https://algolia.frontify.com/d/1AZwVNcFZiu7/style-guide"
+    },
+    {
+      "key": "alibabacloud",
+      "names": [
+        "Alibaba Cloud",
+        "Alibaba Cloud DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.alibabagroup.com/en/ir/reports",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/alibabacloud.svg",
+      "sha256": "cb21fc53f968aa327c69a21965684e3d82f87a183683611d20743ff233e3930d",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "almalinux",
+      "names": [
+        "AlmaLinux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://almalinux.org",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/almalinux.svg",
+      "sha256": "b43f215b8d4874ca51a2ffc35f48b53877f6f0ddada0d18d37277a9908afecf8",
+      "license": null,
+      "guidelines": "https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/"
+    },
+    {
+      "key": "alpinedotjs",
+      "names": [
+        "Alpine.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://alpinejs.dev",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/alpinedotjs.svg",
+      "sha256": "df66fc53b24c00abe0bc4a773f8443e39a077965cec56ecec34c90d923840fb2",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "alpinelinux",
+      "names": [
+        "Alpine Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://alpinelinux.org",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/alpinelinux.svg",
+      "sha256": "bad184f006a759abe6c02f71caa0f7b157b22c48a9469ec6e931c087beb74dac",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "amazonwebservices",
+      "names": [
+        "Amazon Web Services",
+        "AWS",
+        "Amazon Route 53",
+        "Amazon S3",
+        "Amazon SES mail authorization",
+        "Amazon Web Services, Inc",
+        "Amazon Web Services, Inc.",
+        "Amazon Web Services, Inc. (AWS Bedrock)",
+        "Amazon Web Services, Inc. (USA)",
+        "Amazon Web Services (AWS)"
+      ],
+      "collection": "Devicon 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/amazonwebservices/amazonwebservices-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/amazonwebservices/amazonwebservices-original.svg",
+      "sha256": "5b4d8371d79a5c0d3a27ea4e929f772e68d47f7d267496bf9211d5f60fcf8084",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "amplitude",
+      "names": [
+        "Amplitude",
+        "Amplitude, Inc."
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://amplitude.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/amplitude-icon.svg",
+      "sha256": "669d3f0db23afde20b50eeff81f27597ea90760f67d90423835d373b7bcfba16",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "angular",
+      "names": [
+        "Angular"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://angular.dev/press-kit",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/angular.svg",
+      "sha256": "16bad694769180d22b8a4ed790c4a1b1f114d00eb8f47d11b6e772af4f9ea8a1",
+      "license": {
+        "type": "CC-BY-4.0"
+      },
+      "guidelines": "https://angular.dev/press-kit"
+    },
+    {
+      "key": "angularjs",
+      "names": [
+        "AngularJS"
+      ],
+      "collection": "Devicon 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/angularjs/angularjs-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/angularjs/angularjs-original.svg",
+      "sha256": "cf86e31141b6a1c2cf40a7eafebed7db0b3843137f7445bb70398f1887cb9641",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "anthropic",
+      "names": [
+        "Anthropic",
+        "Anthropic (Claude)",
+        "Anthropic PBC",
+        "Anthropic, PBC",
+        "Anthropic, PBC (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.anthropic.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/anthropic.svg",
+      "sha256": "1c10881e4729127e1a86e569613d786240acae13eacfa01860be065b66260e36",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "apache",
+      "names": [
+        "Apache HTTP Server",
+        "Apache Traffic Server"
+      ],
+      "collection": "Devicon 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/apache/apache-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/apache/apache-original.svg",
+      "sha256": "843d8cb7cf9a54eb70e09669d2fadf0b1b59419f92526e94b4359d9366b40ece",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "apachetomcat",
+      "names": [
+        "Apache Tomcat"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://apache.org/logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/apachetomcat.svg",
+      "sha256": "42454771182fd37504817af32440f9c97fa16eb31d2fcd0314d827934cfd33d9",
+      "license": {
+        "type": "Apache-2.0"
+      },
+      "guidelines": "https://www.apache.org/foundation/marks"
+    },
+    {
+      "key": "apollographql",
+      "names": [
+        "Apollo GraphQL",
+        "Apollo Client"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.apollographql.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/apollographql.svg",
+      "sha256": "ae625ad85a06c54b96999cc3fbd7d7a66e77c9b4cead7303abd3f98ae94823c3",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "applepay",
+      "names": [
+        "Apple Pay"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://developer.apple.com/apple-pay/marketing",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/applepay.svg",
+      "sha256": "bac46e66310cb2eb4a87c921f7a75c588afdb87d7d1c508c73691b4033c012f5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "astro",
+      "names": [
+        "Astro"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://astro.build/press",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/astro.svg",
+      "sha256": "38502102492c2b4a0cb93227c51f12150fe8b695aca236d66a29302166b2b4c2",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "atlassian",
+      "names": [
+        "Atlassian",
+        "Atlassian B.V.",
+        "Atlassian K.K.",
+        "Atlassian Pty. Ltd.",
+        "Atlassian (UK) Operations Ltd.",
+        "Atlassian Canada Inc.",
+        "Atlassian France S.A.S.",
+        "Atlassian Germany GmbH",
+        "Atlassian India LLP",
+        "Atlassian Korea Ltd.",
+        "Atlassian New Zealand",
+        "Atlassian Philippines, Inc.",
+        "Atlassian Poland sp.z.o.o",
+        "Atlassian Pte. Ltd.",
+        "Atlassian US, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://atlassian.design/resources/logo-library",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/atlassian.svg",
+      "sha256": "5b2b712e8a9bb65fc7207f8273f586c325507f3f7c79b2a04e31da1dedd5f3b4",
+      "license": null,
+      "guidelines": "https://atlassian.design/foundations/logos"
+    },
+    {
+      "key": "auth0",
+      "names": [
+        "Auth0"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://auth0.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/auth0.svg",
+      "sha256": "64170e087b3bd4c7803cf73ab840955dd2c5ce00777eb686c39dda26915c2a01",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "automattic",
+      "names": [
+        "Automattic",
+        "Automattic, Inc. (Akismet)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://automattic.com/press/brand-materials",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/automattic.svg",
+      "sha256": "bbb6b7360eb036c4a6f108b44535adf9e2ae4af62c7c0c9c2f4b68d70d3408bd",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "aws-amplify",
+      "names": [
+        "AWS Amplify"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://aws.amazon.com/amplify/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/aws-amplify.svg",
+      "sha256": "01ae04a2666c3b5a73a6fb0b6c98de2aa3caa7a47484461d1a4f774ff74a890c",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "aws-elastic-beanstalk",
+      "names": [
+        "AWS Elastic Beanstalk"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://aws.amazon.com/elasticbeanstalk/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/aws-elastic-beanstalk.svg",
+      "sha256": "1b92553bd3e9a52fd3a33531d641966444dcc95d58ae7cdd09aa41b19305d7c6",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "axios",
+      "names": [
+        "axios"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/axios/axios-docs/blob/ba35d67160f94419c1b0292831cd1a4b378adb42/assets/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/axios.svg",
+      "sha256": "93d6602d57c3d4c704710cae6a08688fdc2cb6dc1e8581fc61af173bba6921b7",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "azure",
+      "names": [
+        "Microsoft Azure",
+        "Azure App Service",
+        "Azure Blob Storage",
+        "Azure CDN",
+        "Azure DNS",
+        "Azure Front Door",
+        "Azure Static Web Apps",
+        "Azure Traffic Manager",
+        "Microsoft Azure AI Foundry"
+      ],
+      "collection": "Devicon 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azure/azure-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azure/azure-original.svg",
+      "sha256": "7923db83e3f9755bd412241a683fa996fb7a9d0259b5084de449e6be92f7ca20",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "backbonedotjs",
+      "names": [
+        "Backbone.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Backbone.js_logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/backbonedotjs.svg",
+      "sha256": "3bb5f364f147b08c04072e3eeb6e961812303c65d8fad080991dbd3783e51b37",
+      "license": {
+        "type": "MIT"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "baseten",
+      "names": [
+        "Baseten",
+        "Baseten Labs, Inc.",
+        "Baseten Labs, Inc. (Effective October 16, 2026)"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.baseten.co",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/baseten-icon.svg",
+      "sha256": "d0fce487234e15a2e4acce7dd7ea2bcd20aea04552dc6084323aa1b13d5e70d8",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "baseui",
+      "names": [
+        "Base UI"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://base-ui.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/baseui.svg",
+      "sha256": "76b58af25407af4d11f5b620bd93216dc0e3e8b7e2f032eb6c68a78f81e5170f",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "bitbucket",
+      "names": [
+        "Atlassian Bitbucket"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://atlassian.design/resources/logo-library",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/bitbucket.svg",
+      "sha256": "cbefef6f884299fdded5aedcde3c6fa3164702a24ecdfe11549374b03eaaddb0",
+      "license": null,
+      "guidelines": "https://atlassian.design/foundations/logos"
+    },
+    {
+      "key": "bootstrap",
+      "names": [
+        "Bootstrap"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://getbootstrap.com/docs/5.3/about/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/bootstrap.svg",
+      "sha256": "18dc49386e7f91c8a1ad316a9e6b891146c98cb4abcf80faa084c86cea1e82f3",
+      "license": {
+        "type": "MIT"
+      },
+      "guidelines": "https://getbootstrap.com/docs/5.3/about/brand"
+    },
+    {
+      "key": "braintree",
+      "names": [
+        "Braintree"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.braintreepayments.com/press",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/braintree.svg",
+      "sha256": "5fed75898cc6c7e40681fd64a7d361d93133fe0ba8baf655e96670d1c78b4b9a",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "branch",
+      "names": [
+        "Branch"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://branch.io/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/branch-icon.svg",
+      "sha256": "f0a0f5b745d19452ad9d0a45955157f873528a968f63a4f2c268aea815782f2b",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "brave",
+      "names": [
+        "Brave"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brave.com/brave-branding-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/brave.svg",
+      "sha256": "ab03dbd270ceb53def63a0587f41d74b286056fdbe523cfcb8e3bfe88763b02b",
+      "license": null,
+      "guidelines": "https://brave.com/brave-branding-assets"
+    },
+    {
+      "key": "braze",
+      "names": [
+        "Braze"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.braze.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/braze-icon.svg",
+      "sha256": "8ae6b3876bb2135cb842e1927e088bce600e407975852a0dc4c92b053e8f8462",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "browserbase",
+      "names": [
+        "Browserbase",
+        "Browserbase, Inc."
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.browserbase.com",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/browserbase-icon.svg",
+      "sha256": "c077459f8100b5d34b408f57ba992cf5804494822f4547ea5034b85669ed350a",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "bugsnag",
+      "names": [
+        "Bugsnag"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://bugsnag.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bugsnag.svg",
+      "sha256": "626a6f7439fec3dbb5ae01ccf853997b2b35af0323b6cc1040e6a37492ae11b5",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "bulma",
+      "names": [
+        "Bulma"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://bulma.io/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/bulma.svg",
+      "sha256": "950997632528cd06ad3b7a0630dd7358d847327fa8a16aad45c7553ad3eed8dd",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "bunny-net",
+      "names": [
+        "Bunny",
+        "Bunny CDN"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://bunny.net/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg",
+      "sha256": "a2b764c201038e9dbb780ad0a2343b7412b5d15d40d03200fae291296f8e030e",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "caddy",
+      "names": [
+        "Caddy"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://caddyserver.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/caddy.svg",
+      "sha256": "7d617204fa9f0e40362a20b900976f0d034078314a47b001ced09a6eecc6a21d",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "calendly",
+      "names": [
+        "Calendly"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://calendly.com/newsroom",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/calendly.svg",
+      "sha256": "70270b7654e9f2bcf1c38549585537f7b4156e2d12e60dd7f2abef587a61f9b1",
+      "license": null,
+      "guidelines": "https://calendly.com/newsroom"
+    },
+    {
+      "key": "canonical",
+      "names": [
+        "Canonical",
+        "Canonical Group Limited"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://design.ubuntu.com/resources",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/canonical.svg",
+      "sha256": "13028d89d57849e6987074e020208f8ebb4b2e8a4fa238b06013fe20665abafe",
+      "license": {
+        "type": "CC-BY-SA-3.0"
+      },
+      "guidelines": "https://design.ubuntu.com/brand/"
+    },
+    {
+      "key": "centos",
+      "names": [
+        "CentOS Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://wiki.centos.org/ArtWork/Brand/Logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/centos.svg",
+      "sha256": "a0e28a0ca3a08fdd08dc42e09c8b0b5860b2afdf8f413aff708bc3195bab0368",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "chartdotjs",
+      "names": [
+        "Chart.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.chartjs.org",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/chartdotjs.svg",
+      "sha256": "e3762c8c3e6b741cfa7c0d52289d2cff3258c68ba7e8d0bbc384c72fa1039c14",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "cisco",
+      "names": [
+        "Cisco device",
+        "Cisco Secure Email"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.cisco.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/cisco.svg",
+      "sha256": "6487567170a6fd40e7b38030f6b728f7728d01860767fb58db052004d2f06049",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "clerk",
+      "names": [
+        "Clerk"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://clerk.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/clerk.svg",
+      "sha256": "d1bef1e80423479a53822f77a8ca1d0ac7c9c40d11147f888e77bc16e112f0fb",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "clickhouse",
+      "names": [
+        "ClickHouse",
+        "ClickHouse Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/ClickHouse/ClickHouse/blob/12bd453a43819176d25ecf247033f6cb1af54beb/website/images/logo-clickhouse.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/clickhouse.svg",
+      "sha256": "56b721320616172170bb817a949dd88f71a52254b07caeec6589d0ff9d363cb5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "cloudflare",
+      "names": [
+        "Cloudflare",
+        "Cloudflare Insights",
+        "Cloudflare cdnjs",
+        "Cloudflare challenges",
+        "Cloudflare DNS",
+        "Cloudflare authoritative DNS",
+        "Cloudflare Email Routing",
+        "Cloudflare Zaraz",
+        "Cloudflare, Inc.",
+        "Cloudflare, Inc. (USA)",
+        "Cloudflare, Ltd."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.cloudflare.com/logo/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/cloudflare.svg",
+      "sha256": "32876bda81542203316d67b9623818ac60986897cac79f70e03e8f31f7b7f160",
+      "license": null,
+      "guidelines": "https://www.cloudflare.com/trademark/"
+    },
+    {
+      "key": "cloudflarepages",
+      "names": [
+        "Cloudflare Pages"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://pages.cloudflare.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/cloudflarepages.svg",
+      "sha256": "79c4446a5b22ffdcb6511a21203d561324f3fd9a68e1e57c3bc84e517dedebcf",
+      "license": null,
+      "guidelines": "https://www.cloudflare.com/trademark/"
+    },
+    {
+      "key": "cloudfront",
+      "names": [
+        "Amazon CloudFront",
+        "CloudFront",
+        "Amazon CloudFront CDN"
+      ],
+      "collection": "Custom NanoSVG-safe mark",
+      "source": "https://aws.amazon.com/cloudfront/",
+      "asset_url": "assets/technology/cloudfront.svg",
+      "sha256": "6238e0342579f6194759deb116710fa49f5adb0b4ab5eeb7fd3d7980258ee662",
+      "license": null,
+      "guidelines": "https://aws.amazon.com/trademark-guidelines/"
+    },
+    {
+      "key": "cloudinary",
+      "names": [
+        "Cloudinary"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://cloudinary.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/cloudinary.svg",
+      "sha256": "9a4a9ee1e9e15a9db2af530c77582a0708d570b22c45ff9409ad29220f24f6f5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "confluence",
+      "names": [
+        "Atlassian Confluence"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.atlassian.com/company/news/press-kit",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/confluence.svg",
+      "sha256": "4b43c4b03b65af41ac890cb9afa7d0b46e4d9cc0cafed04fbded509a3afbb332",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "contentful",
+      "names": [
+        "Contentful"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://press.contentful.com/media_kits",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/contentful.svg",
+      "sha256": "ae81eb40f26a336e40fc8be1ae4b048ab32f256f673973f2282eaeff6d680ab2",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "corejs",
+      "names": [
+        "Corejs",
+        "core-js"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/corejs/corejs-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/corejs/corejs-original.svg",
+      "sha256": "3bbfe84f9c06a9ed0e77adfa993ee12292e04a0522739ea7aa0984b8422acc9f",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "customerio",
+      "names": [
+        "Customer.io"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://customer.io/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/customerio-icon.svg",
+      "sha256": "9ec9eee5754da76faf966e818ce52d789a5723c3b9d5d06ffc7429e3d1ebdeae",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "daily",
+      "names": [
+        "Daily"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.daily.co/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/daily-icon.svg",
+      "sha256": "9eb4f9888662540403b6f3e1942d27f7fbde638c6fbf7a6fbe3f70a68d59f21a",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "databricks",
+      "names": [
+        "Databricks",
+        "Databricks, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.databricks.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/databricks.svg",
+      "sha256": "cdb01580e2098562d976473baead2a72c56e1b052dd86070e091e6a7e2b10a49",
+      "license": null,
+      "guidelines": "https://brand.databricks.com/Styleguide/Guide/"
+    },
+    {
+      "key": "datadog",
+      "names": [
+        "Datadog",
+        "Datadog Browser SDK",
+        "Datadog, Inc.",
+        "Datadog, Inc. (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.datadoghq.com/about/resources",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/datadog.svg",
+      "sha256": "92caaec8a2091cfb92167d24a90c7f9748beabee3a552dc9077897bfcba3bdc5",
+      "license": null,
+      "guidelines": "https://www.datadoghq.com/about/resources/"
+    },
+    {
+      "key": "debian",
+      "names": [
+        "Debian Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.debian.org/logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/debian.svg",
+      "sha256": "a4772536243ad46258a015be1fe6e8192a111c9301d2632a959daf6aea64191b",
+      "license": {
+        "type": "CC-BY-SA-3.0"
+      },
+      "guidelines": "https://www.debian.org/logos/"
+    },
+    {
+      "key": "deepl",
+      "names": [
+        "DeepL"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.deepl.com/press.html",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/deepl.svg",
+      "sha256": "debf2d4f42d6805dbd2533f25325f50d3ee4a7c0755b3e3b90012e8671edeab0",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "digitalocean",
+      "names": [
+        "DigitalOcean",
+        "DigitalOcean DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.digitalocean.com/press/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/digitalocean.svg",
+      "sha256": "a381454d22f05a4e7034c3e869c99bcac9a6f915ccc00577ed131b604baed489",
+      "license": null,
+      "guidelines": "https://www.digitalocean.com/press/"
+    },
+    {
+      "key": "docusaurus",
+      "names": [
+        "Docusaurus"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/facebook/docusaurus/blob/67c40069d1062b5aae530b696e6f66bf9618a696/website/static/img/docusaurus.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/docusaurus.svg",
+      "sha256": "6b51212ee11f7a68cbfeab0971da9f38e0d8d8a7d417c6c733d9c4257a5f7bbb",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "dotnet",
+      "names": [
+        "ASP.NET",
+        "ASP.NET MVC",
+        ".NET"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/dotnet/brand/blob/c7d0f51b8ec59531332d05fb27a5b758a7a3d689/logo/dotnet-logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/dotnet.svg",
+      "sha256": "9c3a414cec70d4cbafb6d568176db019e32388c1cb0f7c1ca6379bf513ae4ae0",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": "https://github.com/dotnet/brand/blob/c7d0f51b8ec59531332d05fb27a5b758a7a3d689/dotnet-styleGuide-2024.pdf"
+    },
+    {
+      "key": "dovecot",
+      "names": [
+        "Dovecot"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dovecot_logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/dovecot.svg",
+      "sha256": "a6e872133ddae47293ac8a0634d2b208974779aab6d4b3776252fbe10c0348d0",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "drift",
+      "names": [
+        "Drift"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.drift.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/drift.svg",
+      "sha256": "9769dc78ca50e9ff6af4d9377fed798970e6f392b131cda3ff20c540b4ef9ec9",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "dropbox",
+      "names": [
+        "Dropbox",
+        "Dropbox, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.dropbox.com/branding",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/dropbox.svg",
+      "sha256": "7dd6ef19801075e4132c8bee85c914da218248bf2fdc53a1c0ae5899ac9c151e",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "drupal",
+      "names": [
+        "Drupal"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.drupal.org/about/media-kit/logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/drupal.svg",
+      "sha256": "efc27a2f86a59f880261996afea4283730a20302b5aec9049361e8a8d5876d30",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "duckduckgo",
+      "names": [
+        "DuckDuckGo"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/5c6ac8d6a07421adbfb97ee2ff855dd7655f8d71/shared/img/logo-small-grayscale.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/duckduckgo.svg",
+      "sha256": "9b29c9eef8bf4d4b0412f8b2eb26af5f6da5072ebd3eff51397efb7fe7095632",
+      "license": null,
+      "guidelines": "https://duckduckgo.com/press#press-materials"
+    },
+    {
+      "key": "elastic",
+      "names": [
+        "Elastic",
+        "Elastic N.V. (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.elastic.co/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/elastic.svg",
+      "sha256": "7f9b09a42af2495394bcb6e5a4692409fbf78a3736c065bfb2014591f6ca3fea",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "elasticsearch",
+      "names": [
+        "Elasticsearch"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.elastic.co/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/elasticsearch.svg",
+      "sha256": "698802b0b724880c41eb3fa8715f29891debf93a85d8fb71e39f230a6a37f727",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "elementor",
+      "names": [
+        "Elementor"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://elementor.com/logos/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/elementor.svg",
+      "sha256": "b0bcb173d2b3412fc186d1817b6b5d94e0d36fa5160c06341bcf227278d23d2f",
+      "license": null,
+      "guidelines": "https://elementor.com/logos/"
+    },
+    {
+      "key": "elevenlabs",
+      "names": [
+        "ElevenLabs",
+        "Eleven Labs Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://elevenlabs.io/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/elevenlabs.svg",
+      "sha256": "24e2fe318bc1ed54a29ceb867e4ecead952355cda4241b07402d1ff6510dc133",
+      "license": null,
+      "guidelines": "https://elevenlabs.io/brand"
+    },
+    {
+      "key": "emberdotjs",
+      "names": [
+        "Ember.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://emberjs.com/logos/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/emberdotjs.svg",
+      "sha256": "d93e1aed3919ea94509def73954fd9e7d3cf342720d07be4e2420a4da816e5c3",
+      "license": null,
+      "guidelines": "https://emberjs.com/logos/"
+    },
+    {
+      "key": "envoy",
+      "names": [
+        "Envoy"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/envoy/envoy-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/envoy/envoy-original.svg",
+      "sha256": "e499e22cdf5040db98e73def727c567745782190c3bf2583e5cd3120382f5d2b",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "exa",
+      "names": [
+        "Exa",
+        "Exa Labs, Inc. (Effective October 16, 2026)"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://exa.ai",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/exa-icon.svg",
+      "sha256": "ba67bfb0ebc10eb1b982cec61ea703887051aa0e5b5d499550bbbb85c527e863",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "express",
+      "names": [
+        "Express"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/openjs-foundation/artwork/blob/3816245ebbf4707bdafde748350ac8476b6b5b62/projects/express/express-icon-black.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/express.svg",
+      "sha256": "a60feee93d67d4f3ec8ec6c50ca9627a2c0ccd2453c8e9760e15914893751288",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "facebook",
+      "names": [
+        "Facebook",
+        "Facebook SDK"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://about.meta.com/brand/resources/facebook/logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/facebook.svg",
+      "sha256": "daf5a4fff42cb6b9868b7eb61a9f742663cc128d929d37c85873b8b10eaa345a",
+      "license": null,
+      "guidelines": "https://about.meta.com/brand/resources/facebook/logo"
+    },
+    {
+      "key": "fastly",
+      "names": [
+        "Fastly"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://assets.fastly.com/style-guide/docs/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/fastly.svg",
+      "sha256": "5aa08abd88c3607dec94481043c3f5568d030a5ee812e91de1b910aca5d7bd9c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "fedora",
+      "names": [
+        "Fedora Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://docs.fedoraproject.org/en-US/project/brand/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/fedora.svg",
+      "sha256": "dafd9d19355dc0c89e8a14aac3740b224e2eb0e2fb42db050ba3832acaa7b106",
+      "license": {
+        "type": "custom",
+        "url": "https://docs.fedoraproject.org/en-US/project/brand/"
+      },
+      "guidelines": "https://fedoraproject.org/wiki/Legal:Trademark_guidelines"
+    },
+    {
+      "key": "firebase",
+      "names": [
+        "Firebase",
+        "Firebase, Inc.",
+        "Firebase Hosting"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://firebase.google.com/brand-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/firebase.svg",
+      "sha256": "abbf47a2efb5468324769adb713211d1611f16550440bb3ca9d224462e2f44c3",
+      "license": null,
+      "guidelines": "https://firebase.google.com/brand-guidelines"
+    },
+    {
+      "key": "fireworks-ai",
+      "names": [
+        "Fireworks",
+        "Fireworks AI, Inc.",
+        "Fireworks.ai, Inc."
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://fireworks.ai",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/fireworks-ai.svg",
+      "sha256": "5f3fc4c359f81c230895b86b2666ea80863ed45c2dedf290bb13a68595a3fe85",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "flydotio",
+      "names": [
+        "Fly.io"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://fly.io/docs/about/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/flydotio.svg",
+      "sha256": "c7cfc96ff24e08ccd665bd3fe441abab0c9c067549ec688f0315ddf41df8f22d",
+      "license": null,
+      "guidelines": "https://fly.io/docs/about/brand"
+    },
+    {
+      "key": "fontawesome",
+      "names": [
+        "Font Awesome"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://fontawesome.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/fontawesome.svg",
+      "sha256": "1d5f81f39dcd90528e466d936e76f5ea9c10f018de96219a02af5895519ee856",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "fortinet",
+      "names": [
+        "Fortinet FortiGate"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.fortinet.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/fortinet.svg",
+      "sha256": "410dc667ad9f29dc0f7d88ca8b94110af8ed76d3495ee63bb36b2f12cd503f2f",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "foursquare",
+      "names": [
+        "Foursquare Labs"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://foursquare.com/brand/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/foursquare.svg",
+      "sha256": "15a0ff9e0174d68d4ed598cf159599dbb08288dc53a5969f62f33b5dcc3d23e3",
+      "license": null,
+      "guidelines": "https://foursquare.com/brand/"
+    },
+    {
+      "key": "freebsd",
+      "names": [
+        "FreeBSD",
+        "FreeBSD OpenSSH snapshot"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.freebsdfoundation.org/about/project/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/freebsd.svg",
+      "sha256": "8e579ec1ae6164ba5f9284231cb465b1be0807c05cc0f5fd55d24a80f5202fb7",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "freepik",
+      "names": [
+        "Freepik",
+        "Freepik, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Freepik.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/freepik.svg",
+      "sha256": "233da240eac052e75ce65196a6c6f22895d36c0bffb4e7378c7fda20211df1ef",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "frontapp",
+      "names": [
+        "Front",
+        "FrontApp, Inc."
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://frontapp.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/frontapp.svg",
+      "sha256": "4e875c1cc4005baa214234ea55caac59392d6718d9a662068d6025a885c5d850",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "gandi",
+      "names": [
+        "Gandi",
+        "Gandi DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://news.gandi.net/en/presskit/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/gandi.svg",
+      "sha256": "bcf5a193aeb9553b1ccad06f08614ae20feecf7441811d46e98440ee8f3f8a11",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "gatsby",
+      "names": [
+        "Gatsby"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.gatsbyjs.com/guidelines/logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/gatsby.svg",
+      "sha256": "5f8e70d8de9eecfa57bd37b5ca70bfeef35b02a3eef9e4ebf1a7bc3e3c539d44",
+      "license": null,
+      "guidelines": "https://www.gatsbyjs.com/guidelines/logo"
+    },
+    {
+      "key": "ghost",
+      "names": [
+        "Ghost",
+        "Ghost(Pro)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/TryGhost/Admin/blob/e3e1fa3353767c3729b1658ad42cc35f883470c5/public/assets/icons/icon.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/ghost.svg",
+      "sha256": "dcd1184fe8b566441c2d4f7459fe0ece98936fe67a33070d05bf748a3bcfe199",
+      "license": null,
+      "guidelines": "https://ghost.org/docs/logos/"
+    },
+    {
+      "key": "github",
+      "names": [
+        "Github"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/github.svg",
+      "sha256": "476ba7aa67b86da7d6e7567b08a4bf0eb1a2fd28da5fc243f8ee39a2f1ea6773",
+      "license": null,
+      "guidelines": "https://github.com/logos"
+    },
+    {
+      "key": "githubpages",
+      "names": [
+        "GitHub Pages"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://pages.github.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/githubpages.svg",
+      "sha256": "d91d0706f28ea73837e321d9d39ba40f95802b9230fe644d41c3d3bd90e7e42c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "gitlab",
+      "names": [
+        "GitLab"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://about.gitlab.com/press/press-kit/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/gitlab.svg",
+      "sha256": "3bbfcd2707b9cd5bc6d68d561da605c520a707ceaecf3912aede560bb0990e27",
+      "license": null,
+      "guidelines": "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines/"
+    },
+    {
+      "key": "godaddy",
+      "names": [
+        "GoDaddy",
+        "GoDaddy DNS",
+        "GoDaddy email"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://aboutus.godaddy.net/newsroom/media-resources/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/godaddy.svg",
+      "sha256": "796a2af71b168ca9410eb5148f2ab39d2082c4c470c4b6822b46d2dfa4a21d12",
+      "license": null,
+      "guidelines": "https://aboutus.godaddy.net/newsroom/media-resources/"
+    },
+    {
+      "key": "google",
+      "names": [
+        "Google",
+        "Google Frontend",
+        "gws",
+        "Google Closure Library",
+        "Google (Hong Kong) Limited",
+        "Google Argentina S.R.L.",
+        "Google Asia Pacific Pte Ltd.",
+        "Google Australia Pty Ltd.",
+        "Google Austria GmbH",
+        "Google Belgium NV",
+        "Google Brasil Internet LTDA.",
+        "Google Canada Corporation",
+        "Google Chile Limitada",
+        "Google Czech Republic, s.r.o.",
+        "Google Denmark ApS",
+        "Google Finland Oy",
+        "Google France SARL",
+        "Google Germany GmbH",
+        "Google IT Services India Private Limited",
+        "Google India Pvt. Ltd.",
+        "Google Ireland Ltd.",
+        "Google Israel Ltd.",
+        "Google Italy S.r.l.",
+        "Google Japan G.K.",
+        "Google Korea, LLC.",
+        "Google LLC",
+        "Google Malaysia Sdn. Bhd.",
+        "Google Netherlands B.V.",
+        "Google New Zealand Limited",
+        "Google Poland SP. z.o.o.",
+        "Google Poland SP.z.o.o.",
+        "Google Poland Sp. z o.o.",
+        "Google Slovakia, s.r.o.",
+        "Google Spain S.L.",
+        "Google Spain, S.L.U.",
+        "Google Sweden AB",
+        "Google Switzerland GmbH.",
+        "Google Taiwan Limited",
+        "Google Taiwan Limited *",
+        "Google UK Ltd.",
+        "Google Cloud (Vertex AI)",
+        "Google Hosted Libraries",
+        "Google LLC (Vertex)",
+        "Google Publisher Tag",
+        "Google Vertex AI",
+        "Google Workspace mail",
+        "Google cookie matching",
+        "Google mail authorization",
+        "Google, Inc. (USA)",
+        "Google, LLC",
+        "Google, LLC (Google Cloud)",
+        "Google Firebase, Google Analytics, Google Gemini",
+        "Google Identity Services"
+      ],
+      "collection": "Devicon 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/google/google-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/google/google-original.svg",
+      "sha256": "a8ec042934c876b60fb8120bddd526d4ef8b10b8a4ff89b881d427ed866275fb",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "googleads",
+      "names": [
+        "Google Ads"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://ads.google.com/home/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googleads.svg",
+      "sha256": "155f63694616ff97a5922756b601c76a3214b3624ef3cd0e8477f370bf21f460",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googleadsense",
+      "names": [
+        "Google AdSense"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.google.com/adsense/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googleadsense.svg",
+      "sha256": "f8ca3b19df272fce72d7f5fe0e712cd76e08838509a56318048534e2a6257830",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googleanalytics",
+      "names": [
+        "Google Analytics"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://marketingplatform.google.com/intl/en_uk/about/analytics/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googleanalytics.svg",
+      "sha256": "242fb58cb4e361af3e443f4fba463ca872af93e35075782d73d9a65dca303fa4",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googlecast",
+      "names": [
+        "Google Cast"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://partnermarketinghub.withgoogle.com/brands/google-cast/visual-identity/visual-identity",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googlecast.svg",
+      "sha256": "16a082b97ffc4a2d23e6504ea26ab82aaae757d9fc0aad010ec7f59d29a8a57b",
+      "license": null,
+      "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-cast"
+    },
+    {
+      "key": "googlecloud",
+      "names": [
+        "Google Cloud",
+        "Google Cloud Arabia Limited",
+        "Google Cloud Australia Pty Ltd",
+        "Google Cloud Brasil Computa\u00c3\u00a7\u00c3\u00a3o e Servi\u00c3\u00a7os de Dados Ltda.",
+        "Google Cloud Canada Corporation",
+        "Google Cloud EMEA Limited",
+        "Google Cloud France SARL",
+        "Google Cloud India Private Limited",
+        "Google Cloud Israel Ltd.",
+        "Google Cloud Italy S.r.l.",
+        "Google Cloud Japan G.K.",
+        "Google Cloud Korea LLC",
+        "Google Cloud Mexico S. de R.L. de C.V.",
+        "Google Cloud Mexico, S. de R.L. de C.V.",
+        "Google Cloud Poland Sp. z o.o.",
+        "Google Cloud Qatar QFZ LLC",
+        "Google Cloud South Africa (Pty) Limited",
+        "PT Google Cloud Indonesia",
+        "Google Cloud DNS",
+        "Google Cloud Load Balancing",
+        "Google Cloud Brasil Computa\u00e7\u00e3o e Servi\u00e7os de Dados Ltda.",
+        "Google Cloud Platform",
+        "Google Cloud Platform (GCP)",
+        "Google Cloud Platform GCP / Zencore Group, LLC"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://cloud.google.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googlecloud.svg",
+      "sha256": "eb848405c6a1ed56510e7cc88ffe6e2e12cd8331be4b0c8c31048d0b0e6d53a9",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googlecloudstorage",
+      "names": [
+        "Google Cloud Storage"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://cloud.google.com/icons",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googlecloudstorage.svg",
+      "sha256": "d61f1a944eb7c26707d28f7b0e41e1333cd29ce058654dfc001ea2bd19def019",
+      "license": null,
+      "guidelines": "https://about.google/brand-resource-center"
+    },
+    {
+      "key": "googlefonts",
+      "names": [
+        "Google Fonts"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://fonts.google.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googlefonts.svg",
+      "sha256": "9109c42c8ed0d8977d713876ca820327730dd05e057539fc1bd85dc2d409c12c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googlemaps",
+      "names": [
+        "Google Maps"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Google_Maps_icon.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googlemaps.svg",
+      "sha256": "28746379318587ce74ff9837d7507e7e49bd95b13ec0245b6a93896c2682274a",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googlepay",
+      "names": [
+        "Google Pay"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://pay.google.com/intl/en_us/about/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googlepay.svg",
+      "sha256": "d0614f4fa8974370b52e47656adc9fbbdca1249cf9190869d76644509b525ba4",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "googletagmanager",
+      "names": [
+        "Google tagging",
+        "Google Tag Manager"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://tagmanager.google.com/#/home",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/googletagmanager.svg",
+      "sha256": "56d2d6513a3ed7b71d31a895c3f15820f36fd2d462bcbc420c9a1c00de317ff9",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "grafana",
+      "names": [
+        "Grafana",
+        "Grafana Labs (Raintank, Inc.)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://grafana.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/grafana.svg",
+      "sha256": "fd70ea7298d67665cae32bdf1721fa7bd0b6b79b6f7cd8da1e3f77c97bbcdcc9",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "graphql",
+      "names": [
+        "GraphQL"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://graphql.org/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/graphql.svg",
+      "sha256": "15974f9abc8947050db107bfed2dd3ba8c31b8e7cfcf9ecd966c4216b10af49c",
+      "license": null,
+      "guidelines": "https://graphql.org/brand"
+    },
+    {
+      "key": "gravatar",
+      "names": [
+        "Gravatar"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://automattic.com/press/brand-materials/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/gravatar.svg",
+      "sha256": "dbdb780636f13c63409d49132711113fc0d2462d32cae65d4da7818bbde8594c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "greenhouse",
+      "names": [
+        "Greenhouse",
+        "Greenhouse mail authorization"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brand.greenhouse.io/brand-portal/p/6",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/greenhouse.svg",
+      "sha256": "fd67f8cb0745dced3d66863ad4748eafa1f6002c8ccf36474ff82cd488b299aa",
+      "license": null,
+      "guidelines": "https://brand.greenhouse.io/brand-portal/p/5"
+    },
+    {
+      "key": "gsap",
+      "names": [
+        "GSAP"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://gsap.com/brand/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/gsap.svg",
+      "sha256": "2dd79cc7bc257ac93cbe1e27707942b7decbe4bd4224054e15381a7c747b207a",
+      "license": null,
+      "guidelines": "https://gsap.com/brand/"
+    },
+    {
+      "key": "gunicorn",
+      "names": [
+        "Gunicorn"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/benoitc/gunicorn/blob/ff58e0c6da83d5520916bc4cc109a529258d76e1/docs/logo/gunicorn.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/gunicorn.svg",
+      "sha256": "35390a4e712b0e890fe2b1275c9aef766ce3ed71f3e8bc8dbe33c1b084e584e8",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "hackerone",
+      "names": [
+        "HackerOne"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.hackerone.com/branding",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/hackerone.svg",
+      "sha256": "c1e24ba0e96c09ba3aab9d39240eefba203983186e51015b613cbeef58949e0f",
+      "license": null,
+      "guidelines": "https://www.hackerone.com/branding/pages#logo_usage"
+    },
+    {
+      "key": "handlebars",
+      "names": [
+        "Handlebars"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/handlebars/handlebars-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/handlebars/handlebars-original.svg",
+      "sha256": "bea10d5fa13f81cbd8e2db36c23ab814c7a1a140b919a82d37a548882cc2d402",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "hcaptcha",
+      "names": [
+        "hCaptcha"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.hcaptcha.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hcaptcha-icon.svg",
+      "sha256": "3c9f4e5adfb901a2d12827605e8728f4a51d1ce37b5e93eba978326cf05f49c8",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "headlessui",
+      "names": [
+        "Headless UI"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://headlessui.dev",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/headlessui.svg",
+      "sha256": "7807ce5b7cb6201498f7bd13cce7b12bbdee16a00a00abcf26d7a22721e8a4c5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "heap",
+      "names": [
+        "Heap"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://heapanalytics.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heap-icon.svg",
+      "sha256": "e8ddb69b57dce27ce41894051130ecb0e09795f34a625f744bcd71d3fc710eed",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "helpscout",
+      "names": [
+        "Help Scout",
+        "Help Scout mail authorization"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.helpscout.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/helpscout.svg",
+      "sha256": "eb3b3108e6de7e11380029497e1c1a77112aafb0d992032ab76c332acf1752bd",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "heroku",
+      "names": [
+        "Heroku"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/heroku/heroku-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/heroku/heroku-original.svg",
+      "sha256": "3385de8966d218b6a837a6c5f2f07ba52de24a40d1b3b53dc918ede14acb9d13",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "hetzner",
+      "names": [
+        "Hetzner",
+        "Hetzner DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.hetzner.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/hetzner.svg",
+      "sha256": "d3a7dc7e55d0e9008587f1407af6c6fa197bb2b207b841a05a881d523a4c3dfb",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "highcharts",
+      "names": [
+        "Highcharts"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.highcharts.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/highcharts.svg",
+      "sha256": "35e872525f1afc98d8b4af15f2a862bffd0695d67c111d33f153c256adcb6b6d",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "hotjar",
+      "names": [
+        "Hotjar"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.hotjar.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/hotjar.svg",
+      "sha256": "de141fe2117911e5431754da3bbc5cb1b755fcb0efc67613a1a2ac82ca75b9d6",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "hp",
+      "names": [
+        "HP printer"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/hp.svg",
+      "sha256": "cbd2b75c85f651669224aa8fea4fd8cb28299f4eabfc4e71115714c6f7df0868",
+      "license": null,
+      "guidelines": "https://brandcentral.hp.com/us/en/elements/hp-logo.html"
+    },
+    {
+      "key": "htmx",
+      "names": [
+        "HTMX"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/bigskysoftware/htmx/blob/f690d928342b6334fa539cfbd4be515748d2ba0f/www/static/img/htmx_logo.2.png",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/htmx.svg",
+      "sha256": "df84699d2b40c43aa6ba202cbec3ac0160c838d79075d6630862216158f5415c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "hubspot",
+      "names": [
+        "HubSpot",
+        "HubSpot CMS",
+        "HubSpot Chat",
+        "HubSpot mail authorization"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.hubspot.com/style-guide",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/hubspot.svg",
+      "sha256": "5e3d32c06f065e541829e34c2d2429b1fee686a49020b1974b3fec228916f55e",
+      "license": null,
+      "guidelines": "https://www.hubspot.com/style-guide"
+    },
+    {
+      "key": "hugo",
+      "names": [
+        "Hugo"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://gohugo.io",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/hugo.svg",
+      "sha256": "f49e11a4ac3eef707e38bb1f4fd25f678275e00dc36d97c7af11069788b1f448",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "i18next",
+      "names": [
+        "i18next"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/i18next/i18next-gitbook/blob/32efcfd9c59ae55cc63a60e633dbc1651c7950ad/assets/img/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/i18next.svg",
+      "sha256": "d35441d3a634ec3c500857ec9b15c248f31077965ebdf55622aeb4400da412e0",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "icloud",
+      "names": [
+        "iCloud",
+        "iCloud Mail"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ICloud_logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/icloud.svg",
+      "sha256": "6c2413dc3495390de55858ac5d0a868468411a5370e61c21f338010fee283d97",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "infosys",
+      "names": [
+        "Infosys Limited"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.infosys.com/newsroom/journalist-resources/infosyslogo.html",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/infosys.svg",
+      "sha256": "fff0bacf01936f37c340e8c4d454e57e0b36b2132f9ac4858cad270153d51c33",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "intercom",
+      "names": [
+        "Intercom",
+        "Intercom Messenger"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.intercom.com/press",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/intercom.svg",
+      "sha256": "9e08625c57d0ed7592619f9f6f5ef0a8fb17e9a41c8ec2127f3a741febcdaccf",
+      "license": null,
+      "guidelines": "https://www.intercom.com/press"
+    },
+    {
+      "key": "jekyll",
+      "names": [
+        "Jekyll"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/jekyll/brand/blob/8302ad3ecf045054a095020729a8d2cc7005faf8/jekyll-logo-black.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/jekyll.svg",
+      "sha256": "cf6e603a03070768d04ae04f13547ba3e5ff421be7acc81123a8f1341d7facc7",
+      "license": {
+        "type": "CC-BY-4.0"
+      },
+      "guidelines": "https://github.com/jekyll/brand"
+    },
+    {
+      "key": "joomla",
+      "names": [
+        "Joomla"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://docs.joomla.org/Joomla:Brand_Identity_Elements/Official_Logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/joomla.svg",
+      "sha256": "c90c80a18514b22734580d807c5d60ea055a654d2fb20ed7edc86226e94107cd",
+      "license": null,
+      "guidelines": "https://docs.joomla.org/Joomla:Brand_Identity_Elements"
+    },
+    {
+      "key": "jquery",
+      "names": [
+        "jQuery",
+        "jQuery CDN"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brand.jquery.org/logos/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/jquery.svg",
+      "sha256": "44aac005931bce18b2d6c4e6e4f915200e2bdceae024b9b28866cd7d899d054c",
+      "license": null,
+      "guidelines": "https://brand.jquery.org/logos/"
+    },
+    {
+      "key": "jsdelivr",
+      "names": [
+        "jsDelivr"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/jsdelivr/www.jsdelivr.com/blob/eff02f3a8879cf7c7296840584e1293fe04e3a76/src/public/img/logo_horizontal.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/jsdelivr.svg",
+      "sha256": "1343995a03548d53d0a15ab8e1882f91e6d5c4826938b81f17f09934932e1b9f",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "keycdn",
+      "names": [
+        "KeyCDN"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.keycdn.com/logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/keycdn.svg",
+      "sha256": "cb9373681aff13ddfcbc01242d9ba0f0ffad17e783c48ed2113f1bc39ae924a6",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "kibana",
+      "names": [
+        "Kibana"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.elastic.co/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/kibana.svg",
+      "sha256": "5e484f5ca911bb2e05da2d23a5bdcb7957dcbbc6110fd7962f0ca4892403e65e",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "kinsta",
+      "names": [
+        "Kinsta"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://kinsta.com/press",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/kinsta.svg",
+      "sha256": "0bf37c6822a9cdb56b0e80efc0008ff71e07c1b938b129ef1c686f130909c9f5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "klarna",
+      "names": [
+        "Klarna"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://klarna.design",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/klarna.svg",
+      "sha256": "88f8ddd478589c6dbe730292dc589d1baa6793d604a2e7643d522ffa48fa5084",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "laravel",
+      "names": [
+        "Laravel"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/laravel/art/tree/5a8325b064634b900f25dbb6f1cafd888b2d2211",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/laravel.svg",
+      "sha256": "6b2b1b00be7442c47b79588d2ba51069857d4bfee27e1c082b7e80b48606c493",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "launchdarkly",
+      "names": [
+        "LaunchDarkly"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://launchdarkly.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/launchdarkly-icon.svg",
+      "sha256": "1999cbeaef64928ce886c6f727af8e00073c657011840601558f1485c49f1ebb",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "leaflet",
+      "names": [
+        "Leaflet"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/Leaflet/Leaflet/blob/d843c3b88486713827d7e860b58bdba75bfbd5a2/src/images/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/leaflet.svg",
+      "sha256": "8a6433bc63e9883886173d9d0e9f0552a37238953e125fc160a770e23ad4d9aa",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "lighttpd",
+      "names": [
+        "lighttpd"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.lighttpd.net/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/lighttpd.svg",
+      "sha256": "1455749ce82d50d51eae4955987376e7f8510124c80ca369ea94ba871aa4249c",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "linkedin",
+      "names": [
+        "Linkedin",
+        "LinkedIn Insight Tag"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/linkedin/linkedin-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/linkedin/linkedin-original.svg",
+      "sha256": "71d3e25ef4e06ac34f385476cff2cef2757179af665cda086711d211d85610c0",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "linode",
+      "names": [
+        "Linode",
+        "Linode DNS"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.linode.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg",
+      "sha256": "7d8a573f13426c7b4fde57fc1e25142df06458c7b3f256e9bdedad1ee2a0abf5",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "linux",
+      "names": [
+        "Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.linuxfoundation.org/the-linux-mark/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/linux.svg",
+      "sha256": "5c3b1603cef1303295aa3f96b738cc5df018ce76642e3f0183b519aed9a18d39",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "lit",
+      "names": [
+        "LitElement",
+        "Lit ReactiveElement",
+        "lit-html"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/lit/lit.dev/blob/5e59bdb00b7a261d6fdcd6a4ae529e17f6146ed3/packages/lit-dev-content/site/images/flame-favicon.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/lit.svg",
+      "sha256": "ea356e03ab53076e3d60e31550c4081ca97f76e2f0ad6f354b3108163a675b65",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "livechat",
+      "names": [
+        "LiveChat"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://livechat.design",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/livechat.svg",
+      "sha256": "6554484c648d7cc6fb79976a3d83d8fa9fbe5f7f666f7e77e3673c1b93d35da7",
+      "license": null,
+      "guidelines": "https://livechat.design"
+    },
+    {
+      "key": "livewire",
+      "names": [
+        "Livewire"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://laravel-livewire.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/livewire.svg",
+      "sha256": "ff6f0e30aa56aaa9bab56b977a82b4a94fe9638411f950fa7ed26283e3fb6dd5",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "lodash",
+      "names": [
+        "lodash"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/lodash/lodash.com/blob/c8d41c62b446f08905fd94802db4da8da05d3e92/assets/img/lodash.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/lodash.svg",
+      "sha256": "4331fd75b4ce2a6be10719522720ba3c459fa4734b8b5eb1ddd21a373fdd0dae",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "looker",
+      "names": [
+        "Looker",
+        "Looker Data Sciences, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://looker.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/looker.svg",
+      "sha256": "4a3941bd2a164f656387dcc6e231697f2398b6ee6f6e9d2a3afe032cc2077ab4",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "lottiefiles",
+      "names": [
+        "LottieFiles",
+        "dotLottie Web Component"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://lottiefiles.github.io/lottie-docs/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/lottiefiles.svg",
+      "sha256": "8cc840fa11590b1415fe556d9ba6a7a74103b093a832a1c4587414ca8cdb1103",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "lucide",
+      "names": [
+        "Lucide"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://lucide.dev",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/lucide.svg",
+      "sha256": "367d834671fc4479d8b78e7b367d4f745af11109e5353a0484a99b91cd20cc6b",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "mailchimp",
+      "names": [
+        "MailChimp",
+        "Mailchimp mail authorization",
+        "Mailchimp Transactional mail authorization"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://mailchimp.com/about/brand-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mailchimp.svg",
+      "sha256": "b32937f1d68b7bd330dbe102f1fc4c3e90520cacd24d69a1c40ad96621ddfda9",
+      "license": null,
+      "guidelines": "https://mailchimp.com/about/brand-assets"
+    },
+    {
+      "key": "mailgun",
+      "names": [
+        "Mailgun",
+        "Mailgun Technologies, Inc",
+        "Mailgun Technologies, Inc.",
+        "Mailgun mail",
+        "Mailgun mail authorization"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://mailgun.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mailgun.svg",
+      "sha256": "e5896975bde421e9f0a9fb7dab8f798489b1234efff4e765363f1e5bde755686",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "mailjet",
+      "names": [
+        "Mailjet",
+        "Mailjet mail authorization"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.mailjet.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/mailjet-icon.svg",
+      "sha256": "09d2104401c81e490b33cee16cc961993e4c21c755b5dc4043061c8a368dd893",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "mapbox",
+      "names": [
+        "Mapbox",
+        "Mapbox, Inc.**"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.mapbox.com/about/press/brand-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mapbox.svg",
+      "sha256": "95a5d487fcc4ad48254c7af536eab23829f70ff397e8812d9d466a43865389b8",
+      "license": null,
+      "guidelines": "https://www.mapbox.com/about/press/brand-guidelines"
+    },
+    {
+      "key": "mariadb",
+      "names": [
+        "MariaDB"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://mariadb.com/about-us/logos/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mariadb.svg",
+      "sha256": "69151cbb07e3d4ef5e35f8ac4e7e8d7f484e765ace8df1308bd3959ec5da2731",
+      "license": null,
+      "guidelines": "https://mariadb.com/about-us/logos/"
+    },
+    {
+      "key": "meta",
+      "names": [
+        "Meta",
+        "Meta Pixel",
+        "Meta Platforms, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.meta.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/meta.svg",
+      "sha256": "18e15e0cd6ef858aa8b054db472f83870e5e2ef15f9b19554480c89c93c264e1",
+      "license": null,
+      "guidelines": "https://www.facebook.com/brand/resources/meta/company-brand"
+    },
+    {
+      "key": "metabase",
+      "names": [
+        "Metabase",
+        "Metabase, Inc. (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.metabase.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/metabase.svg",
+      "sha256": "9f58c7bea90e655b1326e0aba3e50e6c79d411881b35366e248e62de82b7224c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "microsoft",
+      "names": [
+        "Microsoft",
+        "Microsoft 365",
+        "Microsoft 365 mail",
+        "Microsoft 365 mail authorization",
+        "Microsoft Clarity",
+        "Microsoft Office",
+        "Office 365",
+        "M365",
+        "Microsoft Advertising",
+        "Microsoft Corporation",
+        "Microsoft Corporation (Azure)",
+        "Microsoft Corporation (Azure)One Microsoft Way, Redmond, WA 98052-6399",
+        "Microsoft Corporation (Microsoft Azure)",
+        "Microsoft IIS"
+      ],
+      "collection": "Simple Icons 11 (jsDelivr npm)",
+      "source": "https://www.microsoft.com",
+      "asset_url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoft.svg",
+      "sha256": "8514605a2ff56f5bdf8b86cfba95c84bfd6b9fabf7ecc35aa7031a6c2514c56f",
+      "license": null,
+      "guidelines": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks"
+    },
+    {
+      "key": "mikrotik",
+      "names": [
+        "MikroTik RouterOS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://mikrotik.com/aboutus",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mikrotik.svg",
+      "sha256": "eb6a4abb3e8199e822595ab1ee31208ea3678d3df1adf0ef226ae1116e3fd25d",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "mintlify",
+      "names": [
+        "Mintlify"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://mintlify.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mintlify.svg",
+      "sha256": "63d059534e7a3cc9186fd68a7df1dd26bfa7323c181d78527293142b9595a154",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "mixpanel",
+      "names": [
+        "Mixpanel"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://mixpanel.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mixpanel.svg",
+      "sha256": "5aef35486469a54bc36a92544180be6c0ba2c8f537b40808b6742a9b321cea68",
+      "license": null,
+      "guidelines": "https://brand.mixpanel.com"
+    },
+    {
+      "key": "mobx",
+      "names": [
+        "MobX"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/mobxjs/mobx/blob/248e25e37af31c2e71ff452bc662a85816fa40d8/docs/assets/mobservable.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mobx.svg",
+      "sha256": "f350fe4bcfa69981fc57c28c9d6c572782e8d9ae815c2f2376504e1d6204c081",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "modal",
+      "names": [
+        "Modal",
+        "Modal Labs, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://modal.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/modal.svg",
+      "sha256": "a55c5490f248e612e3d5095488093494f088e32c42b274ce7dd4f4dfc7cee993",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "momentjs",
+      "names": [
+        "Moment.js"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://momentjs.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/momentjs.svg",
+      "sha256": "3fc1151f6d880e6f889aba56f0fc4f74c7273f8b8e993732d187b73057557735",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "mongodb",
+      "names": [
+        "MongoDB",
+        "MongoDB, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.mongodb.com/pressroom",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mongodb.svg",
+      "sha256": "cf259f556e99f2df9056e60f34ef0eed3eeb4d096dec34f251b0f7a3a5c76fdd",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "motion",
+      "names": [
+        "Motion",
+        "Motion (Framer Motion)"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/motion/motion-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/motion/motion-original.svg",
+      "sha256": "7ff0a7ca4054861e3519e794301cb6377e0e375ed113f36818372ea3cb8f2abc",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "mparticle",
+      "names": [
+        "mParticle"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.mparticle.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/mparticle-icon.svg",
+      "sha256": "d802350faf6428841ec4ffda080f34b73db50e3c8d6e20c34674098b97403a68",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "mysql",
+      "names": [
+        "MySQL"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.mysql.com/about/legal/logos.html",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/mysql.svg",
+      "sha256": "df58ab1e11500e6862bb2c53fbbe688e21b40758cd09090f2283649268f27872",
+      "license": null,
+      "guidelines": "https://www.mysql.com/about/legal/logos.html"
+    },
+    {
+      "key": "namecheap",
+      "names": [
+        "Namecheap",
+        "Namecheap DNS",
+        "Namecheap Private Email"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.namecheap.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/namecheap.svg",
+      "sha256": "86618befe2c5aa7c02b8e46c7794827d40602ad825716b95f46b188e43c0865c",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "neon",
+      "names": [
+        "Neon"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://neon.com/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/neon.svg",
+      "sha256": "cdebbfa1fbfe48315cc900cfe1da5f0a497eca3ec87d1feb0987e16376712307",
+      "license": null,
+      "guidelines": "https://neon.com/brand"
+    },
+    {
+      "key": "netapp",
+      "names": [
+        "NetApp, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.netapp.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/netapp.svg",
+      "sha256": "140129f8993b88fd8a268afb88f18b654dbd1767fcb73ac711a4f17548adae65",
+      "license": null,
+      "guidelines": "https://www.netapp.com/company/legal/trademark-guidelines/"
+    },
+    {
+      "key": "netlify",
+      "names": [
+        "Netlify"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.netlify.com/press/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/netlify.svg",
+      "sha256": "f2d591c3a629c6ff7fa122646710526ed711584890dc1aeb9e864c2746f973f1",
+      "license": null,
+      "guidelines": "https://www.netlify.com/press/"
+    },
+    {
+      "key": "newrelic",
+      "names": [
+        "New Relic"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://newrelic.com/about/media-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/newrelic.svg",
+      "sha256": "1f97eebcc838eda26067c0db23bc691f8ae9248b2524b026e73cfa254064fe3f",
+      "license": null,
+      "guidelines": "https://newrelic.com/about/media-assets#guidelines"
+    },
+    {
+      "key": "nextdotjs",
+      "names": [
+        "Next.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://vercel.com/design/brands#next-js",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/nextdotjs.svg",
+      "sha256": "1d806f2ddfe4eb9599dba14d79a6cc79c5fa55b93805fcd1ab186773a8c42c53",
+      "license": null,
+      "guidelines": "https://vercel.com/design/brands#next-js"
+    },
+    {
+      "key": "nginx",
+      "names": [
+        "nginx"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.nginx.com/press/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/nginx.svg",
+      "sha256": "14e77ea88f50ee3ebcf43919b91e545292673ec35b21bee32ad1f230ee5004bd",
+      "license": null,
+      "guidelines": "https://www.nginx.com/press/"
+    },
+    {
+      "key": "nodedotjs",
+      "names": [
+        "Node.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://nodejs.org/en/about/branding",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/nodedotjs.svg",
+      "sha256": "6c7826737490eb559312b3fdc8853db70ef48a9e035d1bac019efd6e1a1e1371",
+      "license": null,
+      "guidelines": "https://nodejs.org/en/about/branding"
+    },
+    {
+      "key": "notion",
+      "names": [
+        "Notion",
+        "Notion International Inc.",
+        "Notion Labs Australia Pty Ltd",
+        "Notion Labs Japan, G.K.",
+        "Notion Labs Korea Ltd",
+        "Notion Labs United Kingdom, Private Limited",
+        "Notion Labs, Ireland Limited"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.notion.so",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/notion.svg",
+      "sha256": "fdddc8f06178df169036d3f5fc336eb98b15cad375afa04d0a5cd7aa61b65739",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "nuxt",
+      "names": [
+        "Nuxt"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://nuxt.com/design-kit",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/nuxt.svg",
+      "sha256": "980dc11f571195279f97316c584d36988607b4e94b727288b1f40768be498859",
+      "license": null,
+      "guidelines": "https://nuxt.com/design-kit"
+    },
+    {
+      "key": "okta",
+      "names": [
+        "Okta",
+        "Okta, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.okta.com/press-room/media-assets/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/okta.svg",
+      "sha256": "c0d39f09920a50aec44c2a69e4daab5174ac76b936bc27b83713676af0d428ee",
+      "license": null,
+      "guidelines": "https://www.okta.com/terms-of-use-for-okta-content/"
+    },
+    {
+      "key": "onesignal",
+      "names": [
+        "OneSignal"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://onesignal.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/onesignal.svg",
+      "sha256": "72a31860d33c305b9228066a7450f1d6985a70c2c6cc2b3aec8154a542bdd394",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "openai",
+      "names": [
+        "Open AI",
+        "OpenAI",
+        "OpenAI, L.L.C.",
+        "OpenAI, LLC"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://openai.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/openai-icon.svg",
+      "sha256": "9c4a3baf62dc6950e9357302080d33120005e866fbc101ca3fe3cf7cb4ed54c4",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "openapi",
+      "names": [
+        "Openapi",
+        "OpenAPI / Swagger"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/openapi/openapi-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/openapi/openapi-original.svg",
+      "sha256": "ddb256e268a9e147d4edc6411062fe02b3c9fdd4b3b657d74aee15c4e6206e16",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "openrouter",
+      "names": [
+        "OpenRouter"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://openrouter.ai",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/openrouter.svg",
+      "sha256": "c34ab396f6c4940a7bc2a4a5e3cc64c280cd2ea6c3301ec7659ff95fab4d373a",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "openssl",
+      "names": [
+        "OpenSSL"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.openssl.org",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/openssl.svg",
+      "sha256": "4bd5f948906dc482c9a67eda9eee49f4b527057911c3d1d06aa6d28ceb718aab",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "openwrt",
+      "names": [
+        "OpenWrt"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://openwrt.org/docs/guide-graphic-designer/openwrt-logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/openwrt.svg",
+      "sha256": "4f530ba15b8fec4bc281412778a573dd0464026db5217ad000b766f27226f5c5",
+      "license": null,
+      "guidelines": "https://openwrt.org/docs/guide-graphic-designer/openwrt-logo"
+    },
+    {
+      "key": "opnsense",
+      "names": [
+        "OPNsense firewall"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/opnsense/core/blob/f4b69b9b565d2747eb40d7d23e060f4a3c81a071/src/opnsense/www/themes/opnsense/build/images/icon-logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/opnsense.svg",
+      "sha256": "0eea6982af06eabae39c35623728f437d7bce28e563fd3657d6114b02310c938",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "optimizely",
+      "names": [
+        "Optimizely"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.optimizely.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/optimizely-icon.svg",
+      "sha256": "54add9ccff1fca1625c0323ebc6a72aaaa9e1273388928463a868610329cdeed",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "osano",
+      "names": [
+        "Osano"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.osano.com/company/assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/osano.svg",
+      "sha256": "f88321a073669960c540b06563585f20491f49bd15b9445973dca8543e7867c0",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "paddle",
+      "names": [
+        "Paddle"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.paddle.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/paddle.svg",
+      "sha256": "f2d8e83e27f3f290f163d76ee2e783df4af389518400d90ade64c4d097ccf60b",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "paloaltonetworks",
+      "names": [
+        "Palo Alto Networks, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.paloaltonetworks.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/paloaltonetworks.svg",
+      "sha256": "57e9e4c20d759263c2ef6fc826aa9ead3dbddecf438d4b9944ad4de944bd4bab",
+      "license": null,
+      "guidelines": "https://www.paloaltonetworks.com/company/brand"
+    },
+    {
+      "key": "pantheon",
+      "names": [
+        "Pantheon"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://projects.invisionapp.com/boards/8UOJQWW2J3G5#/1145336",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/pantheon.svg",
+      "sha256": "58ae922ccf28b5c909f7e458d39fc7bd07c6328d2c2ca45bfed16c3b85a3d7a5",
+      "license": null,
+      "guidelines": "https://projects.invisionapp.com/boards/8UOJQWW2J3G5#/1145336"
+    },
+    {
+      "key": "paypal",
+      "names": [
+        "PayPal"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.paypal.com/us",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/paypal.svg",
+      "sha256": "fcca30a1996602ba4afb550174e2f3a44273194191a9476f16133c76f9028319",
+      "license": null,
+      "guidelines": "https://newsroom.paypal-corp.com/media-resources"
+    },
+    {
+      "key": "percona",
+      "names": [
+        "Percona"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.percona.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/percona.svg",
+      "sha256": "95bffbacda22f2f80e0c98bd286fbfd06bb2ea7330a3f627b936ea7a7850bbc7",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "perl",
+      "names": [
+        "Perl"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/metacpan/perl-assets/blob/56b555711934dde8fd0b20ec29ecc3bf81a3d493/blessed/src/010.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/perl.svg",
+      "sha256": "2e531e943132344359399b859d6949648b369620871a7bacb14141d14465f113",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "pfsense",
+      "names": [
+        "pfSense firewall"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.pfsense.org",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/pfsense.svg",
+      "sha256": "04cc2418852a8999cd86f1e47d9ad251594c75c034b0004d504aa534bd8e34af",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "php",
+      "names": [
+        "PHP"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://php.net/download-logos.php",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/php.svg",
+      "sha256": "73160274ce28c2cf01020519a08c959ae1922df0548da0a895ab4baff314f0dc",
+      "license": {
+        "type": "CC-BY-SA-4.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "pinterest",
+      "names": [
+        "Pinterest",
+        "Pinterest Tag"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://business.pinterest.com/en/brand-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/pinterest.svg",
+      "sha256": "3ddfb8bdb609e7bb419d613f940692f0d44a3c13173ea317b1cd69f339416603",
+      "license": null,
+      "guidelines": "https://business.pinterest.com/en/brand-guidelines"
+    },
+    {
+      "key": "planetscale",
+      "names": [
+        "PlanetScale",
+        "PlanetScale, Inc.",
+        "PlanetScale, Inc. (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://planetscale.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/planetscale.svg",
+      "sha256": "002bd8972cbfd191595a99ba785791a68ded7ae0b3020361fbc10cc8798ab361",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "plausibleanalytics",
+      "names": [
+        "Plausible Analytics"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/plausible/docs/blob/be5c935484e075f1e0caf3c9b3351ddd62348139/static/img/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/plausibleanalytics.svg",
+      "sha256": "fb4af2b6e8ef6e324246464192714b7e341f294b00ff1d60e264a58248b5071a",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "plesk",
+      "names": [
+        "Plesk"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.plesk.com/brand/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/plesk.svg",
+      "sha256": "44ea2399d9d953fd82f987cf7c5f80851f388d4f8ff4c637a31be8de67fc4a71",
+      "license": null,
+      "guidelines": "https://www.plesk.com/brand/"
+    },
+    {
+      "key": "polymerproject",
+      "names": [
+        "Polymer"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/Polymer/polymer-project.org/blob/3d3e967446858b49a7796676714865ac9b2a5275/app/images/logos/p-logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/polymerproject.svg",
+      "sha256": "3150af7c3e32404d594b1e03e3c18ba2751c7d12e048f3672f78155d5a8e722d",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "postgresql",
+      "names": [
+        "PostgreSQL"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://wiki.postgresql.org/wiki/Logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/postgresql.svg",
+      "sha256": "bc45b1c56d0b1501dea387dbec4fda450d2ebc35244a620791815509d8c41dba",
+      "license": null,
+      "guidelines": "https://www.postgresql.org/about/policies/trademarks/"
+    },
+    {
+      "key": "posthog",
+      "names": [
+        "PostHog"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://posthog.com/handbook/company/brand-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/posthog.svg",
+      "sha256": "85191881b464b9e92ea1c9de7d52217d745bb228029f357f6f4d37621a955c63",
+      "license": null,
+      "guidelines": "https://posthog.com/handbook/company/brand-assets"
+    },
+    {
+      "key": "preact",
+      "names": [
+        "Preact"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://preactjs.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/preact.svg",
+      "sha256": "04e8c0e5d747b89c9c4cc736805e4bbc3c5ff3074b834d0fb3e78db230cbdeb3",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "proxmox",
+      "names": [
+        "Proxmox"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.proxmox.com/en/news/media-kit",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/proxmox.svg",
+      "sha256": "6cac1715d1b2509dfd1506a9e63254d67792f0c1fd944cb0914396c64b9846c7",
+      "license": null,
+      "guidelines": "https://www.proxmox.com/en/news/media-kit"
+    },
+    {
+      "key": "python",
+      "names": [
+        "Python"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.python.org/community/logos/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/python.svg",
+      "sha256": "85f1bb62ecd0d978e82bfac40ce15e1ee7822ad4f74f9215d73661f3865c1e78",
+      "license": null,
+      "guidelines": "https://www.python.org/community/logos/"
+    },
+    {
+      "key": "qnap",
+      "names": [
+        "QNAP NAS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://marketing.qnap.com/resource/qnap-logo-k100",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/qnap.svg",
+      "sha256": "7103a843688cb6767d663dd31264a279276ac5f2fcbd72c1418fcb71666da162",
+      "license": null,
+      "guidelines": "https://marketing.qnap.com/resource/qnap-brand-logo-guideline"
+    },
+    {
+      "key": "quora",
+      "names": [
+        "Quora",
+        "Quora Pixel"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.quora.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/quora.svg",
+      "sha256": "79472ba57dce666c4f991b65980c711ae10a9e602aa5f25110163221c370dbb3",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "rabbitmq",
+      "names": [
+        "RabbitMQ"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.rabbitmq.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/rabbitmq.svg",
+      "sha256": "449b269ad68813ee98dc472d8aa5c15a0c42111030fdb0cddcdb6ec42308cedf",
+      "license": null,
+      "guidelines": "https://www.rabbitmq.com/trademark-guidelines.html"
+    },
+    {
+      "key": "rackspace",
+      "names": [
+        "Rackspace",
+        "Rackspace Email"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.rackspace.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/rackspace-icon.svg",
+      "sha256": "26331c06907395728ab0f5329565c4c6575845b89d5bbad666b1a88e42c4d8a9",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "radixui",
+      "names": [
+        "Radix UI"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.radix-ui.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/radixui.svg",
+      "sha256": "23438d006b4c56b78adbedb53dd248473fd97f4f3c2ac7821a59f16704020627",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "raspberrypi",
+      "names": [
+        "Raspberry Pi OS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.raspberrypi.org/trademark-rules",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/raspberrypi.svg",
+      "sha256": "e590634edc47b919ff6d3b101f9d6a5aee65a783f9be0f59875b70527f2e791a",
+      "license": null,
+      "guidelines": "https://www.raspberrypi.org/trademark-rules"
+    },
+    {
+      "key": "react",
+      "names": [
+        "React"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/facebook/create-react-app/blob/282c03f9525fdf8061ffa1ec50dce89296d916bd/test/fixtures/relative-paths/src/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/react.svg",
+      "sha256": "37c8c23bc6ea999ad58b7f3883fc08b7e22128ec25adcca60ae1046ff878bcc3",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "reactivex",
+      "names": [
+        "ReactiveX",
+        "RxJS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/ReactiveX/rxjs/blob/ee6ababb9fa75f068ac2122e956ff4e449604c59/resources/CI-CD/logo/svg/RxJs_Logo_Black.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/reactivex.svg",
+      "sha256": "c6f04fe4de5b8ff944b17bcf63a328981458502fed38dd0b04e42f681a4e9b31",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "reactrouter",
+      "names": [
+        "React Router"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/ReactTraining/react-router/blob/c94bcd8cef0c811f80b02777ec26fee3618f8e86/website/static/safari-pinned-tab.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/reactrouter.svg",
+      "sha256": "e78e023d08c57e03b14ef32fdf3272b17dcecc80692bbe5915b66d17273f7064",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "readme",
+      "names": [
+        "ReadMe"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://readme.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/readme.svg",
+      "sha256": "f140ffbe7c5e99936689232f73897eaef25a366ef992cb2ce4507d1707bbe975",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "recaptcha",
+      "names": [
+        "reCAPTCHA"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.google.com/recaptcha/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/recaptcha.svg",
+      "sha256": "7e102c7b1dfc2c3628f7819e73594eaed55bf2afe7befe35435c3020b1c13f09",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "reddit",
+      "names": [
+        "Reddit",
+        "Reddit Ads"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.redditinc.com/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/reddit.svg",
+      "sha256": "cc158155e9ea8119a00fd5501a86a4a0b82a9445efb2455ccfabd417e7b0fe4d",
+      "license": null,
+      "guidelines": "https://www.redditinc.com/brand"
+    },
+    {
+      "key": "redhat",
+      "names": [
+        "Red Hat Enterprise Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.redhat.com/en/about/brand/new-brand/details",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/redhat.svg",
+      "sha256": "266454a3b820e757097cc1997e85e7af4c4236ad0881fa2c5f32306847a39232",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "redis",
+      "names": [
+        "Redis"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://redis.io/brand-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/redis.svg",
+      "sha256": "4245419834dd111d83a8ed645a2e305c67faa0af5c5b864eb5f0991de156034c",
+      "license": null,
+      "guidelines": "https://redis.io/brand-guidelines"
+    },
+    {
+      "key": "redux",
+      "names": [
+        "Redux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/reduxjs/redux/blob/abb5f892f7e46849e5ca9bc13e75cfbc944a71b6/logo/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/redux.svg",
+      "sha256": "d52acd637e7fafe7192824ff02d7797761afc3d39f7ad1c3ddefae69465be1fb",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "remix",
+      "names": [
+        "Remix"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://drive.google.com/drive/u/0/folders/1pbHnJqg8Y1ATs0Oi8gARH7wccJGv4I2c",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/remix.svg",
+      "sha256": "e8c93ca4f5c68b32e5955ec51dd5c7c82a45c0e6d1ba365015b2a5cb9ef42f3f",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "render",
+      "names": [
+        "Render"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://render.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/render.svg",
+      "sha256": "b460719d5abfab2915ea2adb677ed725210207ff877d8765938c4d5a8b7c27f2",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "replicate",
+      "names": [
+        "Replicate",
+        "Replicate LLC"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://replicate.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/replicate.svg",
+      "sha256": "2b56b6a5c34ab91d2382a769b6d81bbb5b6152df6c474a4f798b73ce45560e33",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "require",
+      "names": [
+        "RequireJS"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://requirejs.org/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/require.svg",
+      "sha256": "7bf7314f02afcd783788a23f5e5b43d167efc3a7bf90f68df12420d2c12c67cc",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "retool",
+      "names": [
+        "Retool",
+        "Retool, Inc. (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://retool.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/retool.svg",
+      "sha256": "77c95502cfc738f137dbc6db981634847fb9ead9eec48844954dec550c793670",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "rive",
+      "names": [
+        "Rive"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://rive.app",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/rive.svg",
+      "sha256": "ad9794dd2552e8372943b569233ffb569e12f2e006279e52320177445fd454aa",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "rockylinux",
+      "names": [
+        "Rocky Linux"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/rocky-linux/branding/blob/94e97dd30b87d909cc4f6a6838a2926f77f9ac47/logo/src/icon-black.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/rockylinux.svg",
+      "sha256": "df497d30ad8eb310f1b991839a88d4bb27fefc21501c15bb58e3509fecef09b5",
+      "license": {
+        "type": "CC-BY-SA-4.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "rollbar",
+      "names": [
+        "Rollbar"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://rollbar.com/about",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/rollbar.svg",
+      "sha256": "08a8e260de126d8081af2873dda2fe559947bd785d1e149a3dde8e69fbe8427d",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "rollupdotjs",
+      "names": [
+        "Rollup"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://rollupjs.org",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/rollupdotjs.svg",
+      "sha256": "5e05432e5cd1333aeaf657f17352fc4c5d3c8d2d46d09ef2d69590927ef3e66a",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "ruby",
+      "names": [
+        "Ruby"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.ruby-lang.org/en/about/logo/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/ruby.svg",
+      "sha256": "2b0b2bad04afc6b8253ecda251bb20e0627fb728837858961edd5b039cfabe0a",
+      "license": {
+        "type": "CC-BY-SA-2.5"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "rudderstack",
+      "names": [
+        "RudderStack"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.rudderstack.com",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/rudderstack-icon.svg",
+      "sha256": "a9a616409407eaacf1c81ee97d1290bb6bd71c80b71fd3491155b4357cff2b12",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "salesforce",
+      "names": [
+        "Salesforce",
+        "Salesforce Account Engagement",
+        "Salesforce mail authorization",
+        "Salesforce, Inc.",
+        "Salesforce, Inc. (Heroku)",
+        "Salesforce, Inc. (USA)"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/salesforce/salesforce-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/salesforce/salesforce-original.svg",
+      "sha256": "bf8de61a70a6967bf12b2f37aeb57a86893e930a0d1ffe86e35a5a3b3fd4f2f4",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "sanity",
+      "names": [
+        "Sanity"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/sanity-io/logos/blob/e298a1ac2757c83910fe08b496a115bc9aef06bd/src/sanityMonogram.tsx",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/sanity.svg",
+      "sha256": "53afcae826af8f38b8ce3093076aaf5f39692fce621a107c8adf6b471fa93472",
+      "license": {
+        "type": "MIT"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "segment",
+      "names": [
+        "Segment",
+        "Twilio Segment",
+        "Twilio, Inc (Twilio-Segment)"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://segment.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/segment-icon.svg",
+      "sha256": "3833461a04d5811ac3836739232060024ad0417bbb29e88647a83f7daac9e529",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "sendgrid",
+      "names": [
+        "SendGrid",
+        "SendGrid mail authorization"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://sendgrid.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/sendgrid-icon.svg",
+      "sha256": "187200080e89f102097ada0b33884996a76ef30333ff92be8431ec3b3ea862c1",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "sentry",
+      "names": [
+        "Sentry"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://sentry.io/branding/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/sentry.svg",
+      "sha256": "24ac56868a3b5dd440c4de2a3cf8f6864591ba81067eedd8d6be0b0690b136eb",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "shopify",
+      "names": [
+        "Shopify"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.shopify.com/brand-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/shopify.svg",
+      "sha256": "73b7faee1aa8969eba999c3d6622ece507a6415039592185e85ce7bb6244ddc2",
+      "license": null,
+      "guidelines": "https://www.shopify.com/brand-assets"
+    },
+    {
+      "key": "similarweb",
+      "names": [
+        "Similarweb"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.similarweb.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/similarweb.svg",
+      "sha256": "cf99c2758efbef2c54f893eb0b0b5ec1c1d1c4d6be14c3a8f0b3c404c7595195",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "slack",
+      "names": [
+        "Slack"
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/slack/slack-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/slack/slack-original.svg",
+      "sha256": "5ff275ef6df5aca7ac8ed3cf95d003015b4b153f99c570bdcaf9d1674bd6aa5c",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "snowflake",
+      "names": [
+        "Snowflake",
+        "Snowflake Inc.",
+        "Snowflake Inc. (USA)",
+        "Snowflake, Inc.",
+        "Snowflake Computing, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.snowflake.com/brand-guidelines/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/snowflake.svg",
+      "sha256": "ffba0ab5ce4e2f222c3fdacc42e2d7de763b39d525ea0948566cb02614ee7908",
+      "license": null,
+      "guidelines": "https://www.snowflake.com/brand-guidelines/"
+    },
+    {
+      "key": "socketdotio",
+      "names": [
+        "Socket.IO"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://socket.io",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/socketdotio.svg",
+      "sha256": "051808185f510a3935f549c3a633b44c7bd1b6305f0ad5a3910ec2aab1093a00",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "splunk",
+      "names": [
+        "Splunk"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.splunk.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/splunk.svg",
+      "sha256": "6b922bdaf69ba9ec87a3ef004b3da8a7badc1697c5191543ea2bd7b14614ba75",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "squarespace",
+      "names": [
+        "Squarespace",
+        "Squarespace DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.squarespace.com/logo-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/squarespace.svg",
+      "sha256": "8254794c26a14d82e5d0feb0d427a055c80155cbf61a1da53bf842a40a179cf3",
+      "license": null,
+      "guidelines": "https://www.squarespace.com/brand-guidelines"
+    },
+    {
+      "key": "strapi",
+      "names": [
+        "Strapi",
+        "Strapi Cloud"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://handbook.strapi.io/strapi-brand-book-2022/strapi-logo",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/strapi.svg",
+      "sha256": "af143e64b0ed4ae5e176af6f51e23818ae348e59b7e825e22028a3b2f6725c5b",
+      "license": null,
+      "guidelines": "https://handbook.strapi.io/strapi-brand-book-2022"
+    },
+    {
+      "key": "stripe",
+      "names": [
+        "Stripe",
+        "Stripe Issuing",
+        "Stripe Terminal",
+        "Stripe, Inc.",
+        "Stripe, Inc. (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://stripe.com/newsroom/information",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/stripe.svg",
+      "sha256": "7576775bf9915b696bbb9162268f5c56147d2b4221a76ac6a9ca92835239b7e9",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "styledcomponents",
+      "names": [
+        "styled-components"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.styled-components.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/styledcomponents.svg",
+      "sha256": "b21585f3ae49c4921d5120a0a52d21e67e956ae91800c05e282bcc1c80eb792f",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "supabase",
+      "names": [
+        "Supabase",
+        "Supabase, Inc (USA)"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/supabase/supabase/blob/4031a7549f5d46da7bc79c01d56be4177dc7c114/packages/common/assets/images/supabase-logo-wordmark--light.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/supabase.svg",
+      "sha256": "75f9566421d97d4f1d8d7f34526189fd6e727ca83987432fc2477c2fc8388086",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "svelte",
+      "names": [
+        "Svelte"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/sveltejs/branding/blob/c4dfca6743572087a6aef0e109ffe3d95596e86a/svelte-logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/svelte.svg",
+      "sha256": "e843069dd59d9e8389371030a066cfe8ac1e393f788878c77ffbecf2d030f720",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "swiper",
+      "names": [
+        "Swiper"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://swiperjs.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/swiper.svg",
+      "sha256": "37c0ca2bb898e3b183874cc941db7f5811bdbcc34b014ad39af4345242019ff4",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "symantec",
+      "names": [
+        "Symantec",
+        "Symantec Email Security"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/symantec.svg",
+      "sha256": "8354a23c2ab49948b349e1a7a058a8e0a6c1a989a673628a9677bbae136bf2ad",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "synology",
+      "names": [
+        "Synology NAS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.synology.com/en-global/company/branding",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/synology.svg",
+      "sha256": "330a540e2f1a021a539b8541a729cc472d7a5cdd004a25881142dda64cdd6cbc",
+      "license": null,
+      "guidelines": "https://www.synology.com/en-global/company/branding"
+    },
+    {
+      "key": "tableau",
+      "names": [
+        "Tableau"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://www.tableau.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/tableau-icon.svg",
+      "sha256": "48da5e5d479118ae44315ed37d2d543ab312c5fd0fffa7e94ff54491d244925a",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "tailwindcss",
+      "names": [
+        "Tailwind CSS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://tailwindcss.com/brand",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/tailwindcss.svg",
+      "sha256": "34074570b0fbe21cad76e3bb14224945949c27f5f120d1098bb50d7837169d79",
+      "license": null,
+      "guidelines": "https://tailwindcss.com/brand"
+    },
+    {
+      "key": "tanstack",
+      "names": [
+        "TanStack",
+        "TanStack Query",
+        "TanStack Router"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://tanstack.com/images/brand/tanstack-emblem-cream.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/tanstack.svg",
+      "sha256": "e1e162a0fc9e093c1461c98a441171a1ba135cbf1c64e79650e052e71f4aec32",
+      "license": null,
+      "guidelines": "https://tanstack.com/brand-guide"
+    },
+    {
+      "key": "tata",
+      "names": [
+        "Tata Consultancy Services Limited",
+        "Tata Consultancy Services de Mexico SA de CV"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.tatasteel.com/media/media-kit/logos-usage-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/tata.svg",
+      "sha256": "1c1aa1b0509f40d340966e4bbd1d557a28b4b3d3685f542642a58ae17fbb7cee",
+      "license": null,
+      "guidelines": "https://www.tatasteel.com/media/media-kit/logos-usage-guidelines"
+    },
+    {
+      "key": "tealium",
+      "names": [
+        "Tealium"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://tealium.com",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/tealium-icon.svg",
+      "sha256": "ba708ecb56c1bdc42ffc2949e1cfc1bb6ad7181188d0cc6026af918962bdf9f3",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "temporal",
+      "names": [
+        "Temporal",
+        "Temporal Technologies",
+        "Temporal Technologies Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/temporalio/temporaldotio/blob/b6b5f3ed1fda818d5d6c07e27ec15d51a61f2267/public/images/icons/temporal-no-text.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/temporal.svg",
+      "sha256": "2a2c27299f73cd55483c1c5c657cc37e5a7b8d4eb96e837e04a6a2759a441eb8",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "threedotjs",
+      "names": [
+        "three.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/mrdoob/three.js/blob/a567b810cfcb7f6a03e4faea99f03c53081da477/files/icon.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/threedotjs.svg",
+      "sha256": "b2b8aae1a911d3b9576df1184af77631b8b566344b52db84a2578e705ba755de",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "tiktok",
+      "names": [
+        "TikTok",
+        "TikTok Pixel"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://tiktok.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/tiktok.svg",
+      "sha256": "474e542d15b871647fb7b1f7eeeebf899de7de7577c43dc9005c4ac82e2fa4a9",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "torproject",
+      "names": [
+        "Tor",
+        "Tor Project",
+        "Tor Browser"
+      ],
+      "collection": "Simple Icons 11 (jsDelivr npm)",
+      "source": "https://www.torproject.org",
+      "asset_url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/torproject.svg",
+      "sha256": "83249d506c07926651f18cf92fc56f413bffaaeea9d5e307d774817392621eeb",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "truenas",
+      "names": [
+        "TrueNAS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.truenas.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/truenas.svg",
+      "sha256": "ba112d207955e1fe16ad3eb6a070751887a19ae4c85d975c96eecd396ecfc164",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "twilio",
+      "names": [
+        "Twilio",
+        "Twilio Inc.",
+        "Twilio Inc. (Sendgrid)375 Beale St Suite 300 San Francisco, CA 94105",
+        "Twilio, Inc",
+        "Twilio, Inc."
+      ],
+      "collection": "Devicon ff435a0fff0391aefbf70d63a3fe7cfe64f82df0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/twilio/twilio-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/twilio/twilio-original.svg",
+      "sha256": "b81b3fccdd3655d84cddc15aabbaada618b8a26eba4f835d70e3425c93aef6d4",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "typeform",
+      "names": [
+        "Typeform"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.typeform.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/typeform.svg",
+      "sha256": "60a098ea9046ed3fcd79ab26834ce917cc6c460122d7045511840978347e9d9d",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "uber",
+      "names": [
+        "Uber Technologies"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/uber.svg",
+      "sha256": "29eaa0ec30571c0694e7e42ab34816adb5955e414248c240b2b82dee3d8b75ca",
+      "license": null,
+      "guidelines": "https://assets.uber.com/d/k4nuxdZ8MC7E/user-guide#/user-guide/terms-of-use"
+    },
+    {
+      "key": "ubiquiti",
+      "names": [
+        "Ubiquiti UniFi",
+        "Ubiquiti"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.ui.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/ubiquiti.svg",
+      "sha256": "62007bce6173f780f374d2b06b3bbc6b61783dcb0c2a67518efbb86db40d3cde",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "ubuntu",
+      "names": [
+        "Ubuntu Linux",
+        "Ubuntu OpenSSH package"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://design.ubuntu.com/resources",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/ubuntu.svg",
+      "sha256": "05908333dce000b0775603cdc3d14b4a7d315d3625c9fa0b374804d6753643c3",
+      "license": null,
+      "guidelines": "https://design.ubuntu.com/brand"
+    },
+    {
+      "key": "unpkg",
+      "names": [
+        "UNPKG"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/mjackson/unpkg/blob/af8c8db00fdacd77961ab2a8c3edb45a27d3a6a3/public/favicon.ico",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/unpkg.svg",
+      "sha256": "eaf44f70ad06129155ff23a15b026b70a0ab0d38e0e2f26d6aac65e10adeb323",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "unraid",
+      "names": [
+        "Unraid"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://unraid.net",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/unraid.svg",
+      "sha256": "b986f0c314a62e99fea31a7d3c5156dbba88125342fe1b4d05c04f244c24db35",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "vercel",
+      "names": [
+        "Vercel",
+        "Vercel DNS",
+        "Vercel Inc.",
+        "Vercel Inc. (USA)",
+        "Vercel Inc.**",
+        "Vercel Speed Insights",
+        "Vercel Web Analytics"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://vercel.com/geist/brands",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/vercel.svg",
+      "sha256": "075b9d221ef5a7ea63d85f140bd2d63007f31d3ed8ceec011abc3ffd529827e3",
+      "license": null,
+      "guidelines": "https://vercel.com/geist/brands"
+    },
+    {
+      "key": "vimeo",
+      "names": [
+        "Vimeo"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://press.vimeo.com/brand-guidelines",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/vimeo.svg",
+      "sha256": "9ad7a69de623fc3cd7a87eb9961202eaca86bb1e32abeadceac713b0811f58d3",
+      "license": null,
+      "guidelines": "https://press.vimeo.com/brand-guidelines"
+    },
+    {
+      "key": "vite",
+      "names": [
+        "Vite"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/voidzero-dev/community-design-resources/blob/55902097229cf01cf2a4ceb376f992f5cf306756/brand-assets/vite/vite-icon-color-bracketless.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/vite.svg",
+      "sha256": "e350f3a5d8153c29e884dc94839c942e87bb4342ad51d6b9eddb72b85a9fe585",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "vuedotjs",
+      "names": [
+        "Vue.js"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://github.com/vuejs/art/blob/a1c78b74569b70a25300925b4eacfefcc143b8f6/logo.svg",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/vuedotjs.svg",
+      "sha256": "5a106bc81911286a616a911280f185401408cae30305114481e28191ae6656ea",
+      "license": {
+        "type": "CC-BY-NC-SA-4.0"
+      },
+      "guidelines": "https://github.com/vuejs/art/blob/a1c78b74569b70a25300925b4eacfefcc143b8f6/README.md"
+    },
+    {
+      "key": "webflow",
+      "names": [
+        "Webflow"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brand-at.webflow.io/resources#logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/webflow.svg",
+      "sha256": "cbd85813c626c03120d3ad66e17ca98a57c1efb3065b567e0054b54bcd2f1943",
+      "license": null,
+      "guidelines": "https://brand-at.webflow.io"
+    },
+    {
+      "key": "webpack",
+      "names": [
+        "webpack"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://webpack.js.org/branding",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/webpack.svg",
+      "sha256": "59ea25ab3d788b47e484a8ebbbb921f6a57e6ac213e0894af36a2436d57462f9",
+      "license": {
+        "type": "custom",
+        "url": "https://js.foundation/about/governance/trademark-policy"
+      },
+      "guidelines": "https://webpack.js.org/branding"
+    },
+    {
+      "key": "windows11",
+      "names": [
+        "Windows"
+      ],
+      "collection": "Devicon 32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/windows11/windows11-original.svg",
+      "asset_url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/windows11/windows11-original.svg",
+      "sha256": "11ac9b1e84c8c36c21629d03f26ce699b7d2e56bf702ea2e8eb2637cd2271c56",
+      "license": {
+        "type": "MIT"
+      }
+    },
+    {
+      "key": "wipro",
+      "names": [
+        "Wipro LLC",
+        "Wipro Limited"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.wipro.com/content/dam/nexus/en/service-lines/applications/latest-thinking/state-of-cybersecurity-report-2019.pdf",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/wipro.svg",
+      "sha256": "60c0232d4095d17e2a2ff4f3191f92a4a1cd76711a04acaf225e839ac666b60b",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "wistia",
+      "names": [
+        "Wistia",
+        "Wistia, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://wistia.com/about/assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/wistia.svg",
+      "sha256": "3e9cef01170ccc4d4d5bb032e1d43d6a993b9b394f6273e2dffec1ad8b960fff",
+      "license": null,
+      "guidelines": "https://wistia.com/about/assets"
+    },
+    {
+      "key": "wix",
+      "names": [
+        "Wix",
+        "Wix DNS"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.wix.com/about/design-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/wix.svg",
+      "sha256": "9f05273b08006349bbe46b400c15ade1427a7be084b0d54756e79932cf4fbbdc",
+      "license": null,
+      "guidelines": "https://www.wix.com/about/design-assets"
+    },
+    {
+      "key": "woocommerce",
+      "names": [
+        "WooCommerce"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://woocommerce.com/style-guide",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/woocommerce.svg",
+      "sha256": "256d6b27889c336961acc64b106e75e739877bce01613f251a87822002fe9c9c",
+      "license": null,
+      "guidelines": "https://woocommerce.com/trademark-guidelines"
+    },
+    {
+      "key": "wordpress",
+      "names": [
+        "WordPress"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://wordpress.org/about/logos",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/wordpress.svg",
+      "sha256": "0d45778b7cb89372dd4710f38874c5b87045a8bbc8aba5bb7f40fbaf5fcb8808",
+      "license": null,
+      "guidelines": "https://wordpressfoundation.org/trademark-policy"
+    },
+    {
+      "key": "workos",
+      "names": [
+        "WorkOS",
+        "Work OS, Inc.",
+        "WorkOS, Inc."
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://workos.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/workos-icon.svg",
+      "sha256": "39c20a19747d8974ef4b5a167f7d84202cdf2fa46a162cd1e92b41b805a72eac",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "wpengine",
+      "names": [
+        "WP Engine"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://wpengine.com/brand-assets",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/wpengine.svg",
+      "sha256": "ba80c83222c828efdf1449f94ab73ca361e9e54b6065f70365940be27b327f4d",
+      "license": null,
+      "guidelines": "https://wpengine.com/brand-assets"
+    },
+    {
+      "key": "wprocket",
+      "names": [
+        "WP Rocket"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://wp-rocket.me",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/wprocket.svg",
+      "sha256": "aacdfc50b2dcf91f42335266862dfba9f5cd92e13a385ded78c7110fda70d03b",
+      "license": null,
+      "guidelines": null
+    },
+    {
+      "key": "x-ai",
+      "names": [
+        "xAI",
+        "X.AI LLC"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://x.ai",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/x-ai.svg",
+      "sha256": "4e60850ecf48a68daa7f7b89e2d4400ff30c11f27379d6b4904b92f66d7caee5",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "yahoo",
+      "names": [
+        "Yahoo!",
+        "Yahoo cookie matching"
+      ],
+      "collection": "SVG Logos b9edc65f8946027cb5e2fe6c772e914cf3649fba",
+      "source": "https://search.yahoo.com/",
+      "asset_url": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/yahoo.svg",
+      "sha256": "f8b6aef88634fe29ab6a1305336c5b71bdd922121880eaf451f123bdb0c81324",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "guidelines": null
+    },
+    {
+      "key": "youtube",
+      "names": [
+        "YouTube",
+        "YouTube player",
+        "YouTube web client",
+        "YouTube embed"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/youtube.svg",
+      "sha256": "7f5156448b9c1b65156e34e4443f0eff8b85f5afa783fc8a8d09f49380fed424",
+      "license": null,
+      "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors"
+    },
+    {
+      "key": "zendesk",
+      "names": [
+        "Zendesk",
+        "Zendesk mail authorization"
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brandland.zendesk.com",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/zendesk.svg",
+      "sha256": "5072798861272c61023c21edf62529efec5d84425865d363e8a9e239f389dda0",
+      "license": null,
+      "guidelines": "https://brandland.zendesk.com"
+    },
+    {
+      "key": "zoom",
+      "names": [
+        "Zoom",
+        "Zoom Video Communications, Inc."
+      ],
+      "collection": "Simple Icons 16.37.0",
+      "source": "https://brand.zoom.us/media-library/",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.37.0/icons/zoom.svg",
+      "sha256": "101db982d3eee311fdf91182f0de8fbb3ffd6eea46c86e860b71c9d68715c7a5",
+      "license": null,
+      "guidelines": "https://brand.zoom.us/usage-legal/"
+    }
+  ]
+}

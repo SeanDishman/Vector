@@ -1,0 +1,38 @@
+[
+  {
+    "file": "leaflet.js",
+    "url": "https://registry.npmjs.org/leaflet/-/leaflet-1.9.4.tgz",
+    "member": "package/dist/leaflet.js",
+    "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+  },
+  {
+    "file": "leaflet-LICENSE",
+    "url": "https://registry.npmjs.org/leaflet/-/leaflet-1.9.4.tgz",
+    "member": "package/LICENSE",
+    "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+  },
+  {
+    "file": "chart.js.js",
+    "url": "https://registry.npmjs.org/chart.js/-/chart.js-4.4.8.tgz",
+    "member": "package/dist/chart.umd.js",
+    "sha256": "e4cf4d144b222634f2e64ff707cd57b953f8de4b65b231cd5ac6bde114648e4d"
+  },
+  {
+    "file": "chart.js-LICENSE",
+    "url": "https://registry.npmjs.org/chart.js/-/chart.js-4.4.8.tgz",
+    "member": "package/LICENSE.md",
+    "sha256": "41a84aa2caba645f966a18d9c2056b73e6d3a81d80bc0046bc0011a2634d4cce"
+  },
+  {
+    "file": "handlebars.js",
+    "url": "https://registry.npmjs.org/handlebars/-/handlebars-4.7.8.tgz",
+    "member": "package/dist/handlebars.js",
+    "sha256": "9609481aa437379b76df93838cd43066db8972ba2f2efb93ed47a54e5c56a4b4"
+  },
+  {
+    "file": "handlebars-LICENSE",
+    "url": "https://registry.npmjs.org/handlebars/-/handlebars-4.7.8.tgz",
+    "member": "package/LICENSE",
+    "sha256": "e1955f622a2386195a4b67a1f30b9e88fde5cfb3fa95da46afdc4093bb9d0c5c"
+  }
+]
